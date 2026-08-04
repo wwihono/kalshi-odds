@@ -1,0 +1,536 @@
+{
+  "dimensions": {
+    "rows": 915,
+    "columns": 60
+  },
+  "row_definition": "One completed 2025-26 NBA game matched to the Kalshi contract for the home team.",
+  "overall": {
+    "accuracy": 0.6852459016393443,
+    "brier_score": 0.2011703278688525,
+    "log_loss": 0.5853881070246103,
+    "mean_probability": 0.5541311475409836,
+    "observed_home_win_rate": 0.5584699453551912,
+    "expected_calibration_error": 0.031595628415300586,
+    "median_minutes_before_tip": 15.0,
+    "settlement_disagreements": 0
+  },
+  "missingness": {
+    "game_date": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "tipoff_time_utc": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "away_team": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "home_team": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "away_score": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "home_score": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "home_win": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "point_diff": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "source_url": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "ticker": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "event_ticker": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "yes_team": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "game_time_utc": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "open_time": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "settlement_value": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "total_volume": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "api_source": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "kalshi_event_date": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "schedule_row": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "quote_status": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "kalshi_prob": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "yes_bid": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "yes_ask": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "last_trade": {
+      "count": 41,
+      "percent": 4.480874316939891
+    },
+    "bid_ask_spread": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "price_source": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "quote_time_utc": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "minutes_before_tip": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "pregame_volume": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "candlestick_count": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "request_url": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "market_home_win": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "settlement_agrees": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "game_id": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "home_win_pct_5": {
+      "count": 9,
+      "percent": 0.9836065573770493
+    },
+    "away_win_pct_5": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "recent_win_pct_5_diff": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "home_point_diff_5": {
+      "count": 9,
+      "percent": 0.9836065573770493
+    },
+    "away_point_diff_5": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "recent_point_diff_5_diff": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "home_win_pct_10": {
+      "count": 9,
+      "percent": 0.9836065573770493
+    },
+    "away_win_pct_10": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "recent_win_pct_10_diff": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "home_point_diff_10": {
+      "count": 9,
+      "percent": 0.9836065573770493
+    },
+    "away_point_diff_10": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "recent_point_diff_10_diff": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "home_rest_days": {
+      "count": 9,
+      "percent": 0.9836065573770493
+    },
+    "home_back_to_back": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "away_rest_days": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "away_back_to_back": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "rest_diff": {
+      "count": 10,
+      "percent": 1.092896174863388
+    },
+    "home_elo": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "away_elo": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "elo_diff": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "brier": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "log_loss": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "correct_prediction": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "absolute_error": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "probability_bin": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "volume_quartile": {
+      "count": 0,
+      "percent": 0.0
+    }
+  },
+  "quantitative_summaries": {
+    "kalshi_prob": {
+      "count": 915,
+      "mean": 0.5541311475409836,
+      "std": 0.22722215163815168,
+      "min": 0.035,
+      "q1": 0.385,
+      "median": 0.5700000000000001,
+      "q3": 0.745,
+      "max": 0.985
+    },
+    "pregame_volume": {
+      "count": 915,
+      "mean": 448615.2397595628,
+      "std": 690221.8410195452,
+      "min": 460.06,
+      "q1": 149770.0,
+      "median": 262884.0,
+      "q3": 498853.5,
+      "max": 8445673.48
+    },
+    "bid_ask_spread": {
+      "count": 915,
+      "mean": 0.011715846994535498,
+      "std": 0.03280147365896475,
+      "min": 0.0099999999999998,
+      "q1": 0.01,
+      "median": 0.01,
+      "q3": 0.01,
+      "max": 1.0
+    },
+    "recent_win_pct_5_diff": {
+      "count": 905,
+      "mean": 0.005322283609576427,
+      "std": 0.38941434530092256,
+      "min": -1.0,
+      "q1": -0.20000000000000007,
+      "median": 0.0,
+      "q3": 0.20000000000000007,
+      "max": 1.0
+    },
+    "recent_point_diff_5_diff": {
+      "count": 905,
+      "mean": -0.1426887661141805,
+      "std": 13.564549815263307,
+      "min": -39.0,
+      "q1": -9.4,
+      "median": 0.0,
+      "q3": 8.600000000000001,
+      "max": 40.599999999999994
+    },
+    "rest_diff": {
+      "count": 905,
+      "mean": 0.026519337016574586,
+      "std": 0.9589838002311377,
+      "min": -8.0,
+      "q1": 0.0,
+      "median": 0.0,
+      "q3": 0.0,
+      "max": 7.0
+    },
+    "elo_diff": {
+      "count": 915,
+      "mean": 2.387410248410123,
+      "std": 116.18637384881198,
+      "min": -386.53091874236543,
+      "q1": -71.72340234544026,
+      "median": 0.0,
+      "q3": 71.42755608405002,
+      "max": 407.6225568236989
+    },
+    "brier": {
+      "count": 915,
+      "mean": 0.2011703278688525,
+      "std": 0.18752287230488562,
+      "min": 0.0002250000000000004,
+      "q1": 0.048424999999999996,
+      "median": 0.140625,
+      "q3": 0.308025,
+      "max": 0.801025
+    }
+  },
+  "categorical_counts": {
+    "home_win": {
+      "1": 511,
+      "0": 404
+    },
+    "price_source": {
+      "bid_ask_midpoint": 915
+    },
+    "probability_bin": {
+      "(0.6, 0.7]": 133,
+      "(0.4, 0.5]": 133,
+      "(0.7, 0.8]": 129,
+      "(0.8, 0.9]": 124,
+      "(0.3, 0.4]": 117,
+      "(0.5, 0.6]": 113,
+      "(0.2, 0.3]": 60,
+      "(0.1, 0.2]": 56,
+      "(0.9, 1.0]": 31,
+      "(-0.001, 0.1]": 19
+    },
+    "volume_quartile": {
+      "Q2": 229,
+      "Q4 highest": 229,
+      "Q1 lowest": 229,
+      "Q3": 228
+    }
+  },
+  "calibration": [
+    {
+      "probability_bin": "(-0.001, 0.1]",
+      "count": 19,
+      "mean_probability": 0.07657894736842104,
+      "observed_win_rate": 0.0,
+      "brier_score": 0.006161842105263156,
+      "calibration_gap": -0.07657894736842104
+    },
+    {
+      "probability_bin": "(0.1, 0.2]",
+      "count": 56,
+      "mean_probability": 0.15776785714285713,
+      "observed_win_rate": 0.19642857142857142,
+      "brier_score": 0.15593705357142856,
+      "calibration_gap": 0.0386607142857143
+    },
+    {
+      "probability_bin": "(0.2, 0.3]",
+      "count": 60,
+      "mean_probability": 0.252,
+      "observed_win_rate": 0.2833333333333333,
+      "brier_score": 0.20309916666666666,
+      "calibration_gap": 0.031333333333333324
+    },
+    {
+      "probability_bin": "(0.3, 0.4]",
+      "count": 117,
+      "mean_probability": 0.35286324786324785,
+      "observed_win_rate": 0.4017094017094017,
+      "brier_score": 0.24083525641025644,
+      "calibration_gap": 0.04884615384615387
+    },
+    {
+      "probability_bin": "(0.4, 0.5]",
+      "count": 133,
+      "mean_probability": 0.44800751879699247,
+      "observed_win_rate": 0.45112781954887216,
+      "brier_score": 0.24670394736842105,
+      "calibration_gap": 0.00312030075187969
+    },
+    {
+      "probability_bin": "(0.5, 0.6]",
+      "count": 113,
+      "mean_probability": 0.5542477876106195,
+      "observed_win_rate": 0.5398230088495575,
+      "brier_score": 0.245237610619469,
+      "calibration_gap": -0.014424778761062074
+    },
+    {
+      "probability_bin": "(0.6, 0.7]",
+      "count": 133,
+      "mean_probability": 0.6531203007518797,
+      "observed_win_rate": 0.6766917293233082,
+      "brier_score": 0.21454154135338346,
+      "calibration_gap": 0.023571428571428577
+    },
+    {
+      "probability_bin": "(0.7, 0.8]",
+      "count": 129,
+      "mean_probability": 0.7520542635658914,
+      "observed_win_rate": 0.7596899224806202,
+      "brier_score": 0.182675,
+      "calibration_gap": 0.007635658914728727
+    },
+    {
+      "probability_bin": "(0.8, 0.9]",
+      "count": 124,
+      "mean_probability": 0.8498790322580646,
+      "observed_win_rate": 0.7741935483870968,
+      "brier_score": 0.1780054435483871,
+      "calibration_gap": -0.07568548387096785
+    },
+    {
+      "probability_bin": "(0.9, 1.0]",
+      "count": 31,
+      "mean_probability": 0.9308064516129032,
+      "observed_win_rate": 1.0,
+      "brier_score": 0.005237903225806449,
+      "calibration_gap": 0.06919354838709679
+    }
+  ],
+  "volume_accuracy": [
+    {
+      "volume_quartile": "Q1 lowest",
+      "count": 229,
+      "pregame_volume_median": 100558.0,
+      "brier_score": 0.21231877729257642,
+      "accuracy": 0.6681222707423581
+    },
+    {
+      "volume_quartile": "Q2",
+      "count": 229,
+      "pregame_volume_median": 197349.0,
+      "brier_score": 0.18231572052401748,
+      "accuracy": 0.7248908296943232
+    },
+    {
+      "volume_quartile": "Q3",
+      "count": 228,
+      "pregame_volume_median": 352003.5,
+      "brier_score": 0.18626918859649122,
+      "accuracy": 0.706140350877193
+    },
+    {
+      "volume_quartile": "Q4 highest",
+      "count": 229,
+      "pregame_volume_median": 744216.0,
+      "brier_score": 0.22371255458515285,
+      "accuracy": 0.6419213973799127
+    }
+  ],
+  "largest_errors": [
+    {
+      "game_date": "2026-01-05",
+      "away_team": "Charlotte Hornets",
+      "home_team": "Oklahoma City Thunder",
+      "kalshi_prob": 0.895,
+      "home_win": 0,
+      "pregame_volume": 362892.0,
+      "absolute_error": 0.895
+    },
+    {
+      "game_date": "2026-02-05",
+      "away_team": "Washington Wizards",
+      "home_team": "Detroit Pistons",
+      "kalshi_prob": 0.895,
+      "home_win": 0,
+      "pregame_volume": 912293.0,
+      "absolute_error": 0.895
+    },
+    {
+      "game_date": "2026-03-15",
+      "away_team": "Dallas Mavericks",
+      "home_team": "Cleveland Cavaliers",
+      "kalshi_prob": 0.895,
+      "home_win": 0,
+      "pregame_volume": 450997.0,
+      "absolute_error": 0.895
+    },
+    {
+      "game_date": "2026-01-23",
+      "away_team": "Indiana Pacers",
+      "home_team": "Oklahoma City Thunder",
+      "kalshi_prob": 0.885,
+      "home_win": 0,
+      "pregame_volume": 498987.0,
+      "absolute_error": 0.885
+    },
+    {
+      "game_date": "2025-11-17",
+      "away_team": "Chicago Bulls",
+      "home_team": "Denver Nuggets",
+      "kalshi_prob": 0.875,
+      "home_win": 0,
+      "pregame_volume": 282354.0,
+      "absolute_error": 0.875
+    },
+    {
+      "game_date": "2026-01-05",
+      "away_team": "Denver Nuggets",
+      "home_team": "Philadelphia 76ers",
+      "kalshi_prob": 0.875,
+      "home_win": 0,
+      "pregame_volume": 466050.0,
+      "absolute_error": 0.875
+    }
+  ]
+}
