@@ -1,0 +1,391 @@
+{
+  "cleaning": {
+    "input_rows": 1070,
+    "invalid_core_rows": 0,
+    "invalid_quote_rows": 0,
+    "wide_spread_rows": 1,
+    "invalid_timing_rows": 0,
+    "settlement_disagreement_rows": 0,
+    "duplicate_rows": 0,
+    "output_rows": 1069,
+    "max_bid_ask_spread": 0.25
+  },
+  "feature_names": [
+    "recent_win_pct_5_diff",
+    "recent_win_pct_10_diff",
+    "recent_point_diff_5_diff",
+    "recent_point_diff_10_diff",
+    "rest_diff",
+    "back_to_back_diff",
+    "elo_diff"
+  ],
+  "split": {
+    "train": {
+      "rows": 650,
+      "start_date": "2025-10-21",
+      "end_date": "2026-02-11"
+    },
+    "validation": {
+      "rows": 206,
+      "start_date": "2026-02-12",
+      "end_date": "2026-03-22"
+    },
+    "test": {
+      "rows": 213,
+      "start_date": "2026-03-23",
+      "end_date": "2026-06-13"
+    }
+  },
+  "model_families": [
+    "logistic_regression",
+    "random_forest",
+    "gradient_boosting"
+  ],
+  "selection_metric": "validation Brier score",
+  "selected_family": "logistic_regression",
+  "selected_hyperparameters": {
+    "l2_penalty": 0.0
+  },
+  "best_hyperparameters_by_family": {
+    "logistic_regression": {
+      "l2_penalty": 0.0
+    },
+    "random_forest": {
+      "n_estimators": 100,
+      "max_depth": 5,
+      "min_samples_leaf": 8
+    },
+    "gradient_boosting": {
+      "n_estimators": 100,
+      "max_depth": 1,
+      "learning_rate": 0.05,
+      "min_samples_leaf": 10
+    }
+  },
+  "validation_tuning": {
+    "logistic_regression": [
+      {
+        "parameters": {
+          "l2_penalty": 0.0
+        },
+        "accuracy": 0.7038834951456311,
+        "brier_score": 0.19244749752998327,
+        "log_loss": 0.5688029096013163
+      },
+      {
+        "parameters": {
+          "l2_penalty": 0.01
+        },
+        "accuracy": 0.7038834951456311,
+        "brier_score": 0.19244800520237118,
+        "log_loss": 0.5688044302739714
+      },
+      {
+        "parameters": {
+          "l2_penalty": 0.1
+        },
+        "accuracy": 0.7038834951456311,
+        "brier_score": 0.19249656127232617,
+        "log_loss": 0.5689212632904465
+      },
+      {
+        "parameters": {
+          "l2_penalty": 1.0
+        },
+        "accuracy": 0.7038834951456311,
+        "brier_score": 0.1924974683281958,
+        "log_loss": 0.568955411442653
+      },
+      {
+        "parameters": {
+          "l2_penalty": 10.0
+        },
+        "accuracy": 0.7184466019417476,
+        "brier_score": 0.19309459298187923,
+        "log_loss": 0.5705655872572397
+      }
+    ],
+    "random_forest": [
+      {
+        "parameters": {
+          "n_estimators": 50,
+          "max_depth": 3,
+          "min_samples_leaf": 10
+        },
+        "accuracy": 0.6407766990291263,
+        "brier_score": 0.201449936199149,
+        "log_loss": 0.5888251568111587
+      },
+      {
+        "parameters": {
+          "n_estimators": 100,
+          "max_depth": 3,
+          "min_samples_leaf": 10
+        },
+        "accuracy": 0.6747572815533981,
+        "brier_score": 0.20059379587519086,
+        "log_loss": 0.5873341516517605
+      },
+      {
+        "parameters": {
+          "n_estimators": 50,
+          "max_depth": 5,
+          "min_samples_leaf": 8
+        },
+        "accuracy": 0.6699029126213593,
+        "brier_score": 0.20173345790662384,
+        "log_loss": 0.5884362522762849
+      },
+      {
+        "parameters": {
+          "n_estimators": 100,
+          "max_depth": 5,
+          "min_samples_leaf": 8
+        },
+        "accuracy": 0.6601941747572816,
+        "brier_score": 0.20044240454503823,
+        "log_loss": 0.5855532347087627
+      }
+    ],
+    "gradient_boosting": [
+      {
+        "parameters": {
+          "n_estimators": 50,
+          "max_depth": 1,
+          "learning_rate": 0.05,
+          "min_samples_leaf": 10
+        },
+        "accuracy": 0.6601941747572816,
+        "brier_score": 0.2038715824192717,
+        "log_loss": 0.5964632197973195
+      },
+      {
+        "parameters": {
+          "n_estimators": 100,
+          "max_depth": 1,
+          "learning_rate": 0.05,
+          "min_samples_leaf": 10
+        },
+        "accuracy": 0.6650485436893204,
+        "brier_score": 0.1970674381761185,
+        "log_loss": 0.5800781354233632
+      },
+      {
+        "parameters": {
+          "n_estimators": 50,
+          "max_depth": 2,
+          "learning_rate": 0.05,
+          "min_samples_leaf": 10
+        },
+        "accuracy": 0.6601941747572816,
+        "brier_score": 0.20428457029232558,
+        "log_loss": 0.5966918493029656
+      },
+      {
+        "parameters": {
+          "n_estimators": 100,
+          "max_depth": 2,
+          "learning_rate": 0.05,
+          "min_samples_leaf": 10
+        },
+        "accuracy": 0.6601941747572816,
+        "brier_score": 0.20287774733519684,
+        "log_loss": 0.5912694163115709
+      },
+      {
+        "parameters": {
+          "n_estimators": 50,
+          "max_depth": 2,
+          "learning_rate": 0.1,
+          "min_samples_leaf": 10
+        },
+        "accuracy": 0.6650485436893204,
+        "brier_score": 0.2038568725618533,
+        "log_loss": 0.5928289626292257
+      },
+      {
+        "parameters": {
+          "n_estimators": 100,
+          "max_depth": 2,
+          "learning_rate": 0.1,
+          "min_samples_leaf": 10
+        },
+        "accuracy": 0.6359223300970874,
+        "brier_score": 0.20825307854466585,
+        "log_loss": 0.6003307723143233
+      }
+    ]
+  },
+  "preprocessor": {
+    "feature_names": [
+      "recent_win_pct_5_diff",
+      "recent_win_pct_10_diff",
+      "recent_point_diff_5_diff",
+      "recent_point_diff_10_diff",
+      "rest_diff",
+      "back_to_back_diff",
+      "elo_diff"
+    ],
+    "medians": {
+      "recent_win_pct_5_diff": 0.0,
+      "recent_win_pct_10_diff": 0.0,
+      "recent_point_diff_5_diff": -0.399999999999999,
+      "recent_point_diff_10_diff": -0.6999999999999997,
+      "rest_diff": 0.0,
+      "back_to_back_diff": 0.0,
+      "elo_diff": 0.0
+    },
+    "means": {
+      "recent_win_pct_5_diff": 0.0020249221183800607,
+      "recent_win_pct_10_diff": 0.0007769618750927176,
+      "recent_point_diff_5_diff": -0.25586059190031146,
+      "recent_point_diff_10_diff": -0.2966756601394451,
+      "rest_diff": 0.03154205607476635,
+      "back_to_back_diff": -0.016355140186915886,
+      "elo_diff": 1.670296143535475
+    },
+    "scales": {
+      "recent_win_pct_5_diff": 0.3871111775201372,
+      "recent_win_pct_10_diff": 0.31891533335206074,
+      "recent_point_diff_5_diff": 12.90015970108043,
+      "recent_point_diff_10_diff": 10.814546520496638,
+      "rest_diff": 0.9558894940665478,
+      "back_to_back_diff": 0.4926694262840691,
+      "elo_diff": 105.50368769838587
+    }
+  },
+  "final_models": {
+    "logistic_regression": {
+      "family": "logistic_regression",
+      "training_rows": 856,
+      "hyperparameters": {
+        "l2_penalty": 0.0
+      },
+      "intercept": 0.22998987002491522,
+      "coefficients": {
+        "recent_win_pct_5_diff": -0.05018963929561142,
+        "recent_win_pct_10_diff": -0.2528124569185942,
+        "recent_point_diff_5_diff": 0.11702511469403687,
+        "recent_point_diff_10_diff": 0.49241576635403006,
+        "rest_diff": 0.030040055932657034,
+        "back_to_back_diff": 0.0015051752007272502,
+        "elo_diff": 0.565873026630038
+      }
+    },
+    "random_forest": {
+      "family": "random_forest",
+      "training_rows": 856,
+      "hyperparameters": {
+        "n_estimators": 100,
+        "max_depth": 5,
+        "min_samples_leaf": 8
+      },
+      "tree_count": 100,
+      "features_sampled_per_split": "sqrt"
+    },
+    "gradient_boosting": {
+      "family": "gradient_boosting",
+      "training_rows": 856,
+      "hyperparameters": {
+        "n_estimators": 100,
+        "max_depth": 1,
+        "learning_rate": 0.05,
+        "min_samples_leaf": 10
+      },
+      "tree_count": 100
+    }
+  },
+  "final_model": {
+    "family": "logistic_regression",
+    "training_rows": 856,
+    "hyperparameters": {
+      "l2_penalty": 0.0
+    },
+    "intercept": 0.22998987002491522,
+    "coefficients": {
+      "recent_win_pct_5_diff": -0.05018963929561142,
+      "recent_win_pct_10_diff": -0.2528124569185942,
+      "recent_point_diff_5_diff": 0.11702511469403687,
+      "recent_point_diff_10_diff": 0.49241576635403006,
+      "rest_diff": 0.030040055932657034,
+      "back_to_back_diff": 0.0015051752007272502,
+      "elo_diff": 0.565873026630038
+    }
+  },
+  "test_metrics": {
+    "logistic_regression": {
+      "accuracy": 0.7464788732394366,
+      "brier_score": 0.17787954893223418,
+      "log_loss": 0.534421769722634
+    },
+    "random_forest": {
+      "accuracy": 0.7323943661971831,
+      "brier_score": 0.18926151168288316,
+      "log_loss": 0.5637008831931848
+    },
+    "gradient_boosting": {
+      "accuracy": 0.7183098591549296,
+      "brier_score": 0.18453379152587762,
+      "log_loss": 0.5517741740181
+    },
+    "kalshi": {
+      "accuracy": 0.7183098591549296,
+      "brier_score": 0.1750134976525822,
+      "log_loss": 0.5164074157282664
+    },
+    "selected_model": {
+      "accuracy": 0.7464788732394366,
+      "brier_score": 0.17787954893223418,
+      "log_loss": 0.534421769722634
+    },
+    "selected_model_minus_kalshi": {
+      "accuracy": 0.028169014084507005,
+      "brier_score": 0.0028660512796519766,
+      "log_loss": 0.01801435399436757
+    },
+    "model": {
+      "accuracy": 0.7464788732394366,
+      "brier_score": 0.17787954893223418,
+      "log_loss": 0.534421769722634
+    },
+    "model_minus_kalshi": {
+      "accuracy": 0.028169014084507005,
+      "brier_score": 0.0028660512796519766,
+      "log_loss": 0.01801435399436757
+    }
+  },
+  "simulated_trading": {
+    "model_family": "logistic_regression",
+    "fee_rate": 0.07,
+    "fee_assumption": "One immediately matched contract; fee is rounded up to the next cent.",
+    "threshold_results": [
+      {
+        "threshold": 0.05,
+        "positions": 135,
+        "wins": 54,
+        "win_rate": 0.4,
+        "total_cost": 48.51,
+        "total_profit": 5.4899999999999975,
+        "roi": 0.11317254174397028
+      },
+      {
+        "threshold": 0.1,
+        "positions": 73,
+        "wins": 32,
+        "win_rate": 0.4383561643835616,
+        "total_cost": 26.919999999999998,
+        "total_profit": 5.08,
+        "roi": 0.18870728083209512
+      },
+      {
+        "threshold": 0.15,
+        "positions": 38,
+        "wins": 17,
+        "win_rate": 0.4473684210526316,
+        "total_cost": 12.740000000000002,
+        "total_profit": 4.26,
+        "roi": 0.33437990580847715
+      }
+    ]
+  }
+}

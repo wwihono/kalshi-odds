@@ -1,16 +1,16 @@
 {
   "dimensions": {
-    "rows": 915,
+    "rows": 1070,
     "columns": 60
   },
   "row_definition": "One completed 2025-26 NBA game matched to the Kalshi contract for the home team.",
   "overall": {
-    "accuracy": 0.6852459016393443,
-    "brier_score": 0.2011703278688525,
-    "log_loss": 0.5853881070246103,
-    "mean_probability": 0.5541311475409836,
-    "observed_home_win_rate": 0.5584699453551912,
-    "expected_calibration_error": 0.031595628415300586,
+    "accuracy": 0.6794392523364486,
+    "brier_score": 0.20143521028037384,
+    "log_loss": 0.5856419256799783,
+    "mean_probability": 0.5542196261682243,
+    "observed_home_win_rate": 0.5542056074766355,
+    "expected_calibration_error": 0.027556074766355132,
     "median_minutes_before_tip": 15.0,
     "settlement_disagreements": 0
   },
@@ -108,8 +108,8 @@
       "percent": 0.0
     },
     "last_trade": {
-      "count": 41,
-      "percent": 4.480874316939891
+      "count": 45,
+      "percent": 4.205607476635514
     },
     "bid_ask_spread": {
       "count": 0,
@@ -152,72 +152,72 @@
       "percent": 0.0
     },
     "home_win_pct_5": {
-      "count": 9,
-      "percent": 0.9836065573770493
+      "count": 11,
+      "percent": 1.0280373831775702
     },
     "away_win_pct_5": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "recent_win_pct_5_diff": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "home_point_diff_5": {
-      "count": 9,
-      "percent": 0.9836065573770493
+      "count": 11,
+      "percent": 1.0280373831775702
     },
     "away_point_diff_5": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "recent_point_diff_5_diff": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "home_win_pct_10": {
-      "count": 9,
-      "percent": 0.9836065573770493
+      "count": 11,
+      "percent": 1.0280373831775702
     },
     "away_win_pct_10": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "recent_win_pct_10_diff": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "home_point_diff_10": {
-      "count": 9,
-      "percent": 0.9836065573770493
+      "count": 11,
+      "percent": 1.0280373831775702
     },
     "away_point_diff_10": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "recent_point_diff_10_diff": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "home_rest_days": {
-      "count": 9,
-      "percent": 0.9836065573770493
+      "count": 11,
+      "percent": 1.0280373831775702
     },
     "home_back_to_back": {
       "count": 0,
       "percent": 0.0
     },
     "away_rest_days": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "away_back_to_back": {
       "count": 0,
       "percent": 0.0
     },
     "rest_diff": {
-      "count": 10,
-      "percent": 1.092896174863388
+      "count": 12,
+      "percent": 1.1214953271028036
     },
     "home_elo": {
       "count": 0,
@@ -258,29 +258,29 @@
   },
   "quantitative_summaries": {
     "kalshi_prob": {
-      "count": 915,
-      "mean": 0.5541311475409836,
-      "std": 0.22722215163815168,
+      "count": 1070,
+      "mean": 0.5542196261682243,
+      "std": 0.22376388102361114,
       "min": 0.035,
       "q1": 0.385,
-      "median": 0.5700000000000001,
-      "q3": 0.745,
+      "median": 0.5675,
+      "q3": 0.73875,
       "max": 0.985
     },
     "pregame_volume": {
-      "count": 915,
-      "mean": 448615.2397595628,
-      "std": 690221.8410195452,
+      "count": 1070,
+      "mean": 472331.7857943925,
+      "std": 725030.8701798889,
       "min": 460.06,
-      "q1": 149770.0,
-      "median": 262884.0,
-      "q3": 498853.5,
+      "q1": 151802.0,
+      "median": 270857.5,
+      "q3": 531630.0,
       "max": 8445673.48
     },
     "bid_ask_spread": {
-      "count": 915,
-      "mean": 0.011715846994535498,
-      "std": 0.03280147365896475,
+      "count": 1070,
+      "mean": 0.011560747663551384,
+      "std": 0.03034712721830509,
       "min": 0.0099999999999998,
       "q1": 0.01,
       "median": 0.01,
@@ -288,9 +288,9 @@
       "max": 1.0
     },
     "recent_win_pct_5_diff": {
-      "count": 905,
-      "mean": 0.005322283609576427,
-      "std": 0.38941434530092256,
+      "count": 1058,
+      "mean": 0.000882167611846251,
+      "std": 0.38998656198861503,
       "min": -1.0,
       "q1": -0.20000000000000007,
       "median": 0.0,
@@ -298,19 +298,19 @@
       "max": 1.0
     },
     "recent_point_diff_5_diff": {
-      "count": 905,
-      "mean": -0.1426887661141805,
-      "std": 13.564549815263307,
+      "count": 1058,
+      "mean": -0.31494959042218024,
+      "std": 13.368459267538183,
       "min": -39.0,
-      "q1": -9.4,
-      "median": 0.0,
-      "q3": 8.600000000000001,
+      "q1": -9.399999999999999,
+      "median": -0.399999999999999,
+      "q3": 8.6,
       "max": 40.599999999999994
     },
     "rest_diff": {
-      "count": 905,
-      "mean": 0.026519337016574586,
-      "std": 0.9589838002311377,
+      "count": 1058,
+      "mean": 0.045368620037807186,
+      "std": 0.9783959157057112,
       "min": -8.0,
       "q1": 0.0,
       "median": 0.0,
@@ -318,163 +318,163 @@
       "max": 7.0
     },
     "elo_diff": {
-      "count": 915,
-      "mean": 2.387410248410123,
-      "std": 116.18637384881198,
+      "count": 1070,
+      "mean": 2.8486978751489507,
+      "std": 115.26514443875949,
       "min": -386.53091874236543,
-      "q1": -71.72340234544026,
+      "q1": -69.29507066344536,
       "median": 0.0,
-      "q3": 71.42755608405002,
+      "q3": 71.68136058726776,
       "max": 407.6225568236989
     },
     "brier": {
-      "count": 915,
-      "mean": 0.2011703278688525,
-      "std": 0.18752287230488562,
+      "count": 1070,
+      "mean": 0.20143521028037384,
+      "std": 0.18425991573991995,
       "min": 0.0002250000000000004,
-      "q1": 0.048424999999999996,
+      "q1": 0.050625,
       "median": 0.140625,
-      "q3": 0.308025,
+      "q3": 0.30802499999999994,
       "max": 0.801025
     }
   },
   "categorical_counts": {
     "home_win": {
-      "1": 511,
-      "0": 404
+      "1": 593,
+      "0": 477
     },
     "price_source": {
-      "bid_ask_midpoint": 915
+      "bid_ask_midpoint": 1070
     },
     "probability_bin": {
-      "(0.6, 0.7]": 133,
-      "(0.4, 0.5]": 133,
-      "(0.7, 0.8]": 129,
-      "(0.8, 0.9]": 124,
-      "(0.3, 0.4]": 117,
-      "(0.5, 0.6]": 113,
-      "(0.2, 0.3]": 60,
-      "(0.1, 0.2]": 56,
-      "(0.9, 1.0]": 31,
-      "(-0.001, 0.1]": 19
+      "(0.4, 0.5]": 162,
+      "(0.6, 0.7]": 160,
+      "(0.7, 0.8]": 151,
+      "(0.8, 0.9]": 139,
+      "(0.5, 0.6]": 138,
+      "(0.3, 0.4]": 127,
+      "(0.2, 0.3]": 77,
+      "(0.1, 0.2]": 60,
+      "(0.9, 1.0]": 35,
+      "(-0.001, 0.1]": 21
     },
     "volume_quartile": {
-      "Q2": 229,
-      "Q4 highest": 229,
-      "Q1 lowest": 229,
-      "Q3": 228
+      "Q4 highest": 268,
+      "Q1 lowest": 268,
+      "Q2": 267,
+      "Q3": 267
     }
   },
   "calibration": [
     {
       "probability_bin": "(-0.001, 0.1]",
-      "count": 19,
-      "mean_probability": 0.07657894736842104,
+      "count": 21,
+      "mean_probability": 0.07595238095238092,
       "observed_win_rate": 0.0,
-      "brier_score": 0.006161842105263156,
-      "calibration_gap": -0.07657894736842104
+      "brier_score": 0.0060630952380952355,
+      "calibration_gap": -0.07595238095238092
     },
     {
       "probability_bin": "(0.1, 0.2]",
-      "count": 56,
-      "mean_probability": 0.15776785714285713,
-      "observed_win_rate": 0.19642857142857142,
-      "brier_score": 0.15593705357142856,
-      "calibration_gap": 0.0386607142857143
+      "count": 60,
+      "mean_probability": 0.15866666666666665,
+      "observed_win_rate": 0.18333333333333332,
+      "brier_score": 0.14752749999999998,
+      "calibration_gap": 0.02466666666666667
     },
     {
       "probability_bin": "(0.2, 0.3]",
-      "count": 60,
-      "mean_probability": 0.252,
-      "observed_win_rate": 0.2833333333333333,
-      "brier_score": 0.20309916666666666,
-      "calibration_gap": 0.031333333333333324
+      "count": 77,
+      "mean_probability": 0.25097402597402596,
+      "observed_win_rate": 0.2597402597402597,
+      "brier_score": 0.19192110389610392,
+      "calibration_gap": 0.008766233766233755
     },
     {
       "probability_bin": "(0.3, 0.4]",
-      "count": 117,
-      "mean_probability": 0.35286324786324785,
-      "observed_win_rate": 0.4017094017094017,
-      "brier_score": 0.24083525641025644,
-      "calibration_gap": 0.04884615384615387
+      "count": 127,
+      "mean_probability": 0.3534251968503937,
+      "observed_win_rate": 0.4094488188976378,
+      "brier_score": 0.24323444881889764,
+      "calibration_gap": 0.05602362204724409
     },
     {
       "probability_bin": "(0.4, 0.5]",
-      "count": 133,
-      "mean_probability": 0.44800751879699247,
-      "observed_win_rate": 0.45112781954887216,
-      "brier_score": 0.24670394736842105,
-      "calibration_gap": 0.00312030075187969
+      "count": 162,
+      "mean_probability": 0.4485802469135803,
+      "observed_win_rate": 0.4567901234567901,
+      "brier_score": 0.2464006172839506,
+      "calibration_gap": 0.008209876543209815
     },
     {
       "probability_bin": "(0.5, 0.6]",
-      "count": 113,
-      "mean_probability": 0.5542477876106195,
-      "observed_win_rate": 0.5398230088495575,
-      "brier_score": 0.245237610619469,
-      "calibration_gap": -0.014424778761062074
+      "count": 138,
+      "mean_probability": 0.5551086956521739,
+      "observed_win_rate": 0.5217391304347826,
+      "brier_score": 0.2473110507246377,
+      "calibration_gap": -0.03336956521739132
     },
     {
       "probability_bin": "(0.6, 0.7]",
-      "count": 133,
-      "mean_probability": 0.6531203007518797,
-      "observed_win_rate": 0.6766917293233082,
-      "brier_score": 0.21454154135338346,
-      "calibration_gap": 0.023571428571428577
+      "count": 160,
+      "mean_probability": 0.652,
+      "observed_win_rate": 0.6625,
+      "brier_score": 0.21933031249999999,
+      "calibration_gap": 0.010499999999999954
     },
     {
       "probability_bin": "(0.7, 0.8]",
-      "count": 129,
-      "mean_probability": 0.7520542635658914,
-      "observed_win_rate": 0.7596899224806202,
-      "brier_score": 0.182675,
-      "calibration_gap": 0.007635658914728727
+      "count": 151,
+      "mean_probability": 0.7511920529801325,
+      "observed_win_rate": 0.7483443708609272,
+      "brier_score": 0.18785165562913908,
+      "calibration_gap": -0.002847682119205275
     },
     {
       "probability_bin": "(0.8, 0.9]",
-      "count": 124,
-      "mean_probability": 0.8498790322580646,
-      "observed_win_rate": 0.7741935483870968,
-      "brier_score": 0.1780054435483871,
-      "calibration_gap": -0.07568548387096785
+      "count": 139,
+      "mean_probability": 0.8497841726618706,
+      "observed_win_rate": 0.7913669064748201,
+      "brier_score": 0.1668823741007194,
+      "calibration_gap": -0.058417266187050454
     },
     {
       "probability_bin": "(0.9, 1.0]",
-      "count": 31,
-      "mean_probability": 0.9308064516129032,
+      "count": 35,
+      "mean_probability": 0.9298571428571429,
       "observed_win_rate": 1.0,
-      "brier_score": 0.005237903225806449,
-      "calibration_gap": 0.06919354838709679
+      "brier_score": 0.005344999999999997,
+      "calibration_gap": 0.07014285714285706
     }
   ],
   "volume_accuracy": [
     {
       "volume_quartile": "Q1 lowest",
-      "count": 229,
-      "pregame_volume_median": 100558.0,
-      "brier_score": 0.21231877729257642,
-      "accuracy": 0.6681222707423581
+      "count": 268,
+      "pregame_volume_median": 102144.5,
+      "brier_score": 0.211005223880597,
+      "accuracy": 0.667910447761194
     },
     {
       "volume_quartile": "Q2",
-      "count": 229,
-      "pregame_volume_median": 197349.0,
-      "brier_score": 0.18231572052401748,
-      "accuracy": 0.7248908296943232
+      "count": 267,
+      "pregame_volume_median": 200335.0,
+      "brier_score": 0.1809938202247191,
+      "accuracy": 0.7265917602996255
     },
     {
       "volume_quartile": "Q3",
-      "count": 228,
-      "pregame_volume_median": 352003.5,
-      "brier_score": 0.18626918859649122,
-      "accuracy": 0.706140350877193
+      "count": 267,
+      "pregame_volume_median": 365438.0,
+      "brier_score": 0.1880501872659176,
+      "accuracy": 0.7078651685393258
     },
     {
       "volume_quartile": "Q4 highest",
-      "count": 229,
-      "pregame_volume_median": 744216.0,
-      "brier_score": 0.22371255458515285,
-      "accuracy": 0.6419213973799127
+      "count": 268,
+      "pregame_volume_median": 811781.0,
+      "brier_score": 0.22556539179104476,
+      "accuracy": 0.6156716417910447
     }
   ],
   "largest_errors": [
@@ -515,21 +515,21 @@
       "absolute_error": 0.885
     },
     {
+      "game_date": "2026-03-14",
+      "away_team": "Sacramento Kings",
+      "home_team": "Los Angeles Clippers",
+      "kalshi_prob": 0.885,
+      "home_win": 0,
+      "pregame_volume": 489444.0,
+      "absolute_error": 0.885
+    },
+    {
       "game_date": "2025-11-17",
       "away_team": "Chicago Bulls",
       "home_team": "Denver Nuggets",
       "kalshi_prob": 0.875,
       "home_win": 0,
       "pregame_volume": 282354.0,
-      "absolute_error": 0.875
-    },
-    {
-      "game_date": "2026-01-05",
-      "away_team": "Denver Nuggets",
-      "home_team": "Philadelphia 76ers",
-      "kalshi_prob": 0.875,
-      "home_win": 0,
-      "pregame_volume": 466050.0,
       "absolute_error": 0.875
     }
   ]

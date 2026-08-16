@@ -667,12 +667,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT23OKCIND-IND",
@@ -682,12 +682,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT21HOUOKC-OKC",
@@ -697,12 +697,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT22TORATL-ATL",
@@ -712,12 +712,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT22CLENYK-NYK",
@@ -742,12 +742,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT24BOSNYK-NYK",
@@ -757,12 +757,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT24ATLORL-ORL",
@@ -772,12 +772,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT24MILTOR-TOR",
@@ -787,12 +787,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT25OKCATL-ATL",
@@ -802,12 +802,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT25INDMEM-MEM",
@@ -817,12 +817,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV01HOUBOS-BOS",
@@ -1042,12 +1042,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT30GSWMIL-MIL",
@@ -1147,12 +1147,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV04ORLATL-ATL",
@@ -1357,12 +1357,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV07OKCSAC-SAC",
@@ -1402,12 +1402,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25OCT31ATLIND-IND",
@@ -1447,12 +1447,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV01MINCHA-CHA",
@@ -1462,12 +1462,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV01DALDET-DET",
@@ -1477,12 +1477,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV01SACMIL-MIL",
@@ -1492,12 +1492,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV08CHICLE-CLE",
@@ -1597,12 +1597,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV08PORMIA-MIA",
@@ -1627,12 +1627,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV10SASCHI-CHI",
@@ -1657,12 +1657,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV07UTAMIN-MIN",
@@ -2032,12 +2032,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV15TORIND-IND",
@@ -2062,12 +2062,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV07BOSORL-ORL",
@@ -2077,12 +2077,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV16SACSAS-SAS",
@@ -2167,12 +2167,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV09MINSAC-SAC",
@@ -2182,12 +2182,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV09BOSORL-ORL",
@@ -2212,12 +2212,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV15MEMCLE-CLE",
@@ -2257,12 +2257,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV17INDDET-DET",
@@ -2332,12 +2332,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV10CLEMIA-MIA",
@@ -2347,12 +2347,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV14SACMIN-MIN",
@@ -2557,12 +2557,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV19GSWMIA-MIA",
@@ -2662,12 +2662,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV21NOPDAL-DAL",
@@ -2842,12 +2842,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV17OKCNOP-NOP",
@@ -2962,12 +2962,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV19CHIPOR-POR",
@@ -2977,12 +2977,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV24MINSAC-SAC",
@@ -3202,12 +3202,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV26INDTOR-TOR",
@@ -3397,12 +3397,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV23CHAATL-ATL",
@@ -3412,12 +3412,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV23BKNTOR-TOR",
@@ -3532,12 +3532,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV24PORMIL-MIL",
@@ -3547,12 +3547,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC02MEMSAS-SAS",
@@ -3652,12 +3652,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV26HOUGSW-GSW",
@@ -3667,12 +3667,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV29TORCHA-CHA",
@@ -3772,12 +3772,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV28SACUTA-UTA",
@@ -3787,12 +3787,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC03PORCLE-CLE",
@@ -3847,12 +3847,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC04MINNOP-NOP",
@@ -3877,12 +3877,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25NOV28PHIBKN-BKN",
@@ -3982,12 +3982,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC05PORDET-DET",
@@ -4012,12 +4012,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC06NOPBKN-BKN",
@@ -4117,12 +4117,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC01CLEIND-IND",
@@ -4207,12 +4207,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC02OKCGSW-GSW",
@@ -4222,12 +4222,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC09MIAORL-ORL",
@@ -4432,12 +4432,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC05INDCHI-CHI",
@@ -4537,12 +4537,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC06ATLWAS-WAS",
@@ -4552,12 +4552,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC15TORMIA-MIA",
@@ -4732,12 +4732,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC10PHXOKC-OKC",
@@ -4777,12 +4777,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC19CHICLE-CLE",
@@ -4882,12 +4882,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC20PHXGSW-GSW",
@@ -4972,12 +4972,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC14PHIATL-ATL",
@@ -4987,12 +4987,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC19PHINYK-NYK",
@@ -5107,12 +5107,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC22INDBOS-BOS",
@@ -5197,12 +5197,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC23MEMUTA-UTA",
@@ -5242,12 +5242,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC18HOUNOP-NOP",
@@ -5257,12 +5257,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC18TORMIL-MIL",
@@ -5272,12 +5272,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC26DETUTA-UTA",
@@ -5542,12 +5542,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC21MILMIN-MIN",
@@ -5842,12 +5842,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC26PHXNOP-NOP",
@@ -5857,12 +5857,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC25SASOKC-OKC",
@@ -5977,12 +5977,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC26BOSIND-IND",
@@ -6082,12 +6082,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN01PHIDAL-DAL",
@@ -6112,12 +6112,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN02SASIND-IND",
@@ -6142,12 +6142,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC27MILCHI-CHI",
@@ -6157,12 +6157,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC27NYKATL-ATL",
@@ -6172,12 +6172,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN02SACPHX-PHX",
@@ -6277,12 +6277,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN03ATLTOR-TOR",
@@ -6367,12 +6367,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC29NYKNOP-NOP",
@@ -6382,12 +6382,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-25DEC29MINCHI-CHI",
@@ -6397,12 +6397,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN05CHAOKC-OKC",
@@ -6457,12 +6457,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN06ORLWAS-WAS",
@@ -6487,12 +6487,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN02ORLCHI-CHI",
@@ -6622,12 +6622,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN06DALSAC-SAC",
@@ -6817,12 +6817,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN03UTAGSW-GSW",
@@ -6862,12 +6862,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN10SASBOS-BOS",
@@ -7057,12 +7057,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN11SASMIN-MIN",
@@ -7102,12 +7102,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN11BKNMEM-MEM",
@@ -7192,12 +7192,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN07UTAOKC-OKC",
@@ -7207,12 +7207,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN14BKNNOP-NOP",
@@ -7297,12 +7297,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN07DENBOS-BOS",
@@ -7312,12 +7312,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN14NYKSAC-SAC",
@@ -7342,12 +7342,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN15OKCHOU-HOU",
@@ -7417,12 +7417,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN16NOPIND-IND",
@@ -7447,12 +7447,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN16CHIBKN-BKN",
@@ -7552,12 +7552,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN13PORGSW-GSW",
@@ -7657,12 +7657,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN17INDDET-DET",
@@ -7687,12 +7687,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN15NYKGSW-GSW",
@@ -7762,12 +7762,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN12BKNDAL-DAL",
@@ -7777,12 +7777,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN12UTACLE-CLE",
@@ -7792,12 +7792,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN19MILATL-ATL",
@@ -8017,12 +8017,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN15MILSAS-SAS",
@@ -8062,12 +8062,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN21TORSAC-SAC",
@@ -8122,12 +8122,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN23DENMIL-MIL",
@@ -8257,12 +8257,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN21DETNOP-NOP",
@@ -8362,12 +8362,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN19INDPHI-PHI",
@@ -8377,12 +8377,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN19UTASAS-SAS",
@@ -8392,12 +8392,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN24MIAUTA-UTA",
@@ -8497,12 +8497,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN27SACNYK-NYK",
@@ -8692,12 +8692,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN28ORLMIA-MIA",
@@ -8782,12 +8782,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN23BOSBKN-BKN",
@@ -8932,12 +8932,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN30SACBOS-BOS",
@@ -9007,12 +9007,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN26ORLCLE-CLE",
@@ -9067,12 +9067,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JAN29DETPHX-PHX",
@@ -9187,12 +9187,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB03CHIMIL-MIL",
@@ -9247,12 +9247,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB03DENDET-DET",
@@ -9472,12 +9472,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB06INDMIL-MIL",
@@ -9577,12 +9577,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB06NOPMIN-MIN",
@@ -9667,12 +9667,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB01CHIMIA-MIA",
@@ -9802,12 +9802,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB03ATLMIA-MIA",
@@ -9817,12 +9817,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB09DETCHA-CHA",
@@ -9862,12 +9862,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB06MEMPOR-POR",
@@ -9937,12 +9937,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB10INDNYK-NYK",
@@ -10072,12 +10072,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB11DETTOR-TOR",
@@ -10207,12 +10207,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB11OKCPHX-PHX",
@@ -10267,12 +10267,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB11MIANOP-NOP",
@@ -10297,12 +10297,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB07WASBKN-BKN",
@@ -10312,12 +10312,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB19INDWAS-WAS",
@@ -10432,12 +10432,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB22NYKCHI-CHI",
@@ -10597,12 +10597,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB20MIAATL-ATL",
@@ -10627,12 +10627,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB11NYKPHI-PHI",
@@ -10642,12 +10642,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB11INDBKN-BKN",
@@ -10657,12 +10657,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB23UTAHOU-HOU",
@@ -10762,12 +10762,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB24BOSPHX-PHX",
@@ -10807,12 +10807,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB25SACHOU-HOU",
@@ -10867,12 +10867,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB25GSWMEM-MEM",
@@ -10912,12 +10912,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB26WASATL-ATL",
@@ -10987,12 +10987,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB24MINPOR-POR",
@@ -11017,12 +11017,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB24MIAMIL-MIL",
@@ -11047,12 +11047,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB26HOUORL-ORL",
@@ -11332,12 +11332,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB24WASATL-ATL",
@@ -11347,12 +11347,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26FEB28HOUMIA-MIA",
@@ -11437,12 +11437,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR01DETORL-ORL",
@@ -11482,12 +11482,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR03WASORL-ORL",
@@ -11572,12 +11572,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR05DALORL-ORL",
@@ -11617,12 +11617,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR06PORHOU-HOU",
@@ -11662,12 +11662,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR05UTAWAS-WAS",
@@ -11707,12 +11707,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR03DETCLE-CLE",
@@ -11947,12 +11947,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR06NYKDEN-DEN",
@@ -12007,12 +12007,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR03OKCCHI-CHI",
@@ -12037,12 +12037,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR10DETBKN-BKN",
@@ -12082,12 +12082,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR10PHXMIL-MIL",
@@ -12142,12 +12142,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR04CHABOS-BOS",
@@ -12157,12 +12157,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR10DALATL-ATL",
@@ -12202,12 +12202,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR05DETSAS-SAS",
@@ -12487,12 +12487,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR12DENSAS-SAS",
@@ -12592,12 +12592,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR15PORPHI-PHI",
@@ -12622,12 +12622,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR10INDSAC-SAC",
@@ -12637,12 +12637,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR16ORLATL-ATL",
@@ -12742,12 +12742,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR16GSWWAS-WAS",
@@ -12787,12 +12787,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR17OKCORL-ORL",
@@ -12817,12 +12817,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR18TORCHI-CHI",
@@ -12862,12 +12862,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR11HOUDEN-DEN",
@@ -13072,12 +13072,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR17CLEMIL-MIL",
@@ -13192,12 +13192,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR15INDMIL-MIL",
@@ -13207,12 +13207,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR21PHIUTA-UTA",
@@ -13312,12 +13312,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR20NYKBKN-BKN",
@@ -13357,12 +13357,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR22TORPHX-PHX",
@@ -13447,12 +13447,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR23INDORL-ORL",
@@ -13477,12 +13477,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR21OKCWAS-WAS",
@@ -13537,12 +13537,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR18OKCBKN-BKN",
@@ -13582,12 +13582,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR25BKNGSW-GSW",
@@ -13612,12 +13612,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR25HOUMIN-MIN",
@@ -13882,12 +13882,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR29NYKOKC-OKC",
@@ -14017,12 +14017,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR30CHISAS-SAS",
@@ -14047,12 +14047,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR30DETOKC-OKC",
@@ -14107,12 +14107,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR30BOSATL-ATL",
@@ -14212,12 +14212,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR25SASMEM-MEM",
@@ -14227,12 +14227,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR25CHIPHI-PHI",
@@ -14242,12 +14242,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR26SACORL-ORL",
@@ -14257,12 +14257,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR31CHABKN-BKN",
@@ -14347,12 +14347,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR01MILHOU-HOU",
@@ -14407,12 +14407,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR03ATLBKN-BKN",
@@ -14602,12 +14602,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR05INDCLE-CLE",
@@ -14632,12 +14632,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR05CHAMIN-MIN",
@@ -14767,12 +14767,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR04SASDEN-DEN",
@@ -14827,12 +14827,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAR31TORDET-DET",
@@ -14842,12 +14842,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR07CHABOS-BOS",
@@ -14962,12 +14962,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR02PHXCHA-CHA",
@@ -14977,12 +14977,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR08MILDET-DET",
@@ -15112,12 +15112,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR07SACGSW-GSW",
@@ -15187,12 +15187,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR10ORLCHI-CHI",
@@ -15292,12 +15292,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR05MEMMIL-MIL",
@@ -15322,12 +15322,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR12PHXOKC-OKC",
@@ -15397,12 +15397,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR12DETIND-IND",
@@ -15532,12 +15532,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR12SACPOR-POR",
@@ -15592,12 +15592,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR20ATLNYK-NYK",
@@ -15637,12 +15637,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR09PHIHOU-HOU",
@@ -15652,12 +15652,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR09CHIWAS-WAS",
@@ -15667,12 +15667,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR09MIATOR-TOR",
@@ -15682,12 +15682,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR21PHIBOS-BOS",
@@ -15937,12 +15937,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR28ATLNYK-NYK",
@@ -16012,12 +16012,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR12BKNTOR-TOR",
@@ -16027,12 +16027,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR12CHANYK-NYK",
@@ -16042,12 +16042,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR30DENMIN-MIN",
@@ -16087,12 +16087,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR29ORLDET-DET",
@@ -16177,12 +16177,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAY06MINSAS-MIN",
@@ -16192,12 +16192,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAY05CLEDET-DET",
@@ -16237,12 +16237,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR19PHXOKC-OKC",
@@ -16252,12 +16252,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAY13CLEDET-DET",
@@ -16327,12 +16327,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAY21CLENYK-NYK",
@@ -16372,12 +16372,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26APR22PHXOKC-OKC",
@@ -16402,12 +16402,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26MAY01CLETOR-TOR",
@@ -16492,12 +16492,12 @@
     "yes_ask": NaN,
     "last_trade": NaN,
     "bid_ask_spread": NaN,
-    "price_source": NaN,
-    "quote_time_utc": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
     "minutes_before_tip": NaN,
     "pregame_volume": NaN,
     "candlestick_count": NaN,
-    "request_url": NaN
+    "request_url": null
   },
   {
     "ticker": "KXNBAGAME-26JUN08SASNYK-NYK",
@@ -16918,5 +16918,2570 @@
     "pregame_volume": 129943.0,
     "candlestick_count": 1374.0,
     "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB07MEMPOR-POR/candlesticks?start_ts=1770432300&end_ts=1770518700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT28LACGSW-GSW",
+    "quote_status": "available",
+    "kalshi_prob": 0.485,
+    "yes_bid": 0.48,
+    "yes_ask": 0.49,
+    "last_trade": 0.49,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-10-29T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1518256.0,
+    "candlestick_count": 1293.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT28LACGSW-GSW/candlesticks?start_ts=1761619500&end_ts=1761705900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT22LACUTA-UTA",
+    "quote_status": "available",
+    "kalshi_prob": 0.20500000000000002,
+    "yes_bid": 0.2,
+    "yes_ask": 0.21,
+    "last_trade": 0.21,
+    "bid_ask_spread": 0.009999999999999981,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-10-23T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 128336.0,
+    "candlestick_count": 1057.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT22LACUTA-UTA/candlesticks?start_ts=1761093900&end_ts=1761180300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV02MIALAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.655,
+    "yes_bid": 0.65,
+    "yes_ask": 0.66,
+    "last_trade": 0.66,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-03T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 597878.0,
+    "candlestick_count": 1229.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV02MIALAL-LAL/candlesticks?start_ts=1762049700&end_ts=1762136100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV10ATLLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.635,
+    "yes_bid": 0.63,
+    "yes_ask": 0.64,
+    "last_trade": 0.64,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-11T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 123466.0,
+    "candlestick_count": 1402.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV10ATLLAC-LAC/candlesticks?start_ts=1762744500&end_ts=1762830900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT31NOPLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.825,
+    "yes_bid": 0.82,
+    "yes_ask": 0.83,
+    "last_trade": 0.83,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-01T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 116628.0,
+    "candlestick_count": 1401.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT31NOPLAC-LAC/candlesticks?start_ts=1761876900&end_ts=1761963300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT26PORLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.735,
+    "yes_bid": 0.73,
+    "yes_ask": 0.74,
+    "last_trade": NaN,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-10-27T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 96866.0,
+    "candlestick_count": 1292.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT26PORLAC-LAC/candlesticks?start_ts=1761439500&end_ts=1761525900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT27PORLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.435,
+    "yes_bid": 0.43,
+    "yes_ask": 0.44,
+    "last_trade": 0.44,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-10-28T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 375625.0,
+    "candlestick_count": 1244.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT27PORLAL-LAL/candlesticks?start_ts=1761531300&end_ts=1761617700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT29LALMIN-MIN",
+    "quote_status": "available",
+    "kalshi_prob": 0.715,
+    "yes_bid": 0.71,
+    "yes_ask": 0.72,
+    "last_trade": 0.72,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-10-30T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 84067.0,
+    "candlestick_count": 1341.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT29LALMIN-MIN/candlesticks?start_ts=1761700500&end_ts=1761786900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV03LALPOR-POR",
+    "quote_status": "available",
+    "kalshi_prob": 0.765,
+    "yes_bid": 0.76,
+    "yes_ask": 0.77,
+    "last_trade": 0.77,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-04T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 912486.0,
+    "candlestick_count": 1193.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV03LALPOR-POR/candlesticks?start_ts=1762137900&end_ts=1762224300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV08PHXLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.615,
+    "yes_bid": 0.61,
+    "yes_ask": 0.62,
+    "last_trade": 0.62,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-09T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 104630.0,
+    "candlestick_count": 1353.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV08PHXLAC-LAC/candlesticks?start_ts=1762571700&end_ts=1762658100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV04OKCLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.26,
+    "yes_bid": 0.25,
+    "yes_ask": 0.27,
+    "last_trade": 0.25,
+    "bid_ask_spread": 0.020000000000000018,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-05T03:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1019519.0,
+    "candlestick_count": 1418.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV04OKCLAC-LAC/candlesticks?start_ts=1762227900&end_ts=1762314300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT31LALMEM-MEM",
+    "quote_status": "available",
+    "kalshi_prob": 0.47,
+    "yes_bid": 0.46,
+    "yes_ask": 0.48,
+    "last_trade": 0.47,
+    "bid_ask_spread": 0.019999999999999962,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-01T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 314334.0,
+    "candlestick_count": 1343.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT31LALMEM-MEM/candlesticks?start_ts=1761873300&end_ts=1761959700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV12LALOKC-OKC",
+    "quote_status": "available",
+    "kalshi_prob": 0.725,
+    "yes_bid": 0.72,
+    "yes_ask": 0.73,
+    "last_trade": 0.73,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-13T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 231083.0,
+    "candlestick_count": 1400.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV12LALOKC-OKC/candlesticks?start_ts=1762913700&end_ts=1763000100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV10LALCHA-CHA",
+    "quote_status": "available",
+    "kalshi_prob": 0.245,
+    "yes_bid": 0.24,
+    "yes_ask": 0.25,
+    "last_trade": 0.24,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-10T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 106675.0,
+    "candlestick_count": 1385.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV10LALCHA-CHA/candlesticks?start_ts=1762731900&end_ts=1762818300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV15LALMIL-MIL",
+    "quote_status": "available",
+    "kalshi_prob": 0.52,
+    "yes_bid": 0.51,
+    "yes_ask": 0.53,
+    "last_trade": 0.53,
+    "bid_ask_spread": 0.020000000000000018,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-16T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 251329.0,
+    "candlestick_count": 1294.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV15LALMIL-MIL/candlesticks?start_ts=1763167500&end_ts=1763253900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV14LALNOP-NOP",
+    "quote_status": "available",
+    "kalshi_prob": 0.19,
+    "yes_bid": 0.18,
+    "yes_ask": 0.2,
+    "last_trade": NaN,
+    "bid_ask_spread": 0.020000000000000018,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-15T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 66451.0,
+    "candlestick_count": 1356.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV14LALNOP-NOP/candlesticks?start_ts=1763081100&end_ts=1763167500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV20LACORL-ORL",
+    "quote_status": "available",
+    "kalshi_prob": 0.685,
+    "yes_bid": 0.68,
+    "yes_ask": 0.69,
+    "last_trade": 0.69,
+    "bid_ask_spread": 0.009999999999999898,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-20T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 973667.0,
+    "candlestick_count": 1279.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV20LACORL-ORL/candlesticks?start_ts=1763595900&end_ts=1763682300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV12DENLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.365,
+    "yes_bid": 0.36,
+    "yes_ask": 0.37,
+    "last_trade": 0.36,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-13T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 222020.0,
+    "candlestick_count": 1415.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV12DENLAC-LAC/candlesticks?start_ts=1762917300&end_ts=1763003700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT21GSWLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.435,
+    "yes_bid": 0.43,
+    "yes_ask": 0.44,
+    "last_trade": 0.44,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-10-22T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 771068.0,
+    "candlestick_count": 1196.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT21GSWLAL-LAL/candlesticks?start_ts=1761011100&end_ts=1761097500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT26LALSAC-SAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.605,
+    "yes_bid": 0.6,
+    "yes_ask": 0.61,
+    "last_trade": 0.61,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-10-27T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 717528.0,
+    "candlestick_count": 1150.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT26LALSAC-SAC/candlesticks?start_ts=1761439500&end_ts=1761525900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV23LACCLE-CLE",
+    "quote_status": "available",
+    "kalshi_prob": 0.74,
+    "yes_bid": 0.73,
+    "yes_ask": 0.75,
+    "last_trade": 0.74,
+    "bid_ask_spread": 0.020000000000000018,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-23T22:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 187888.0,
+    "candlestick_count": 1284.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV23LACCLE-CLE/candlesticks?start_ts=1763851500&end_ts=1763937900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV18UTALAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.845,
+    "yes_bid": 0.84,
+    "yes_ask": 0.85,
+    "last_trade": 0.85,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-19T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 592180.0,
+    "candlestick_count": 1383.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV18UTALAL-LAL/candlesticks?start_ts=1763435700&end_ts=1763522100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV25LACLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.705,
+    "yes_bid": 0.7,
+    "yes_ask": 0.71,
+    "last_trade": 0.71,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-26T03:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 2429617.0,
+    "candlestick_count": 1427.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV25LACLAL-LAL/candlesticks?start_ts=1764042300&end_ts=1764128700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV14LACDAL-DAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.405,
+    "yes_bid": 0.4,
+    "yes_ask": 0.41,
+    "last_trade": 0.41,
+    "bid_ask_spread": 0.009999999999999953,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-15T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 276037.0,
+    "candlestick_count": 1324.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV14LACDAL-DAL/candlesticks?start_ts=1763082900&end_ts=1763169300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV30NOPLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.915,
+    "yes_bid": 0.91,
+    "yes_ask": 0.92,
+    "last_trade": 0.92,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-01T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 360957.0,
+    "candlestick_count": 1309.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV30NOPLAL-LAL/candlesticks?start_ts=1764468900&end_ts=1764555300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV28MEMLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.705,
+    "yes_bid": 0.7,
+    "yes_ask": 0.71,
+    "last_trade": 0.71,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-29T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 97845.0,
+    "candlestick_count": 1439.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV28MEMLAC-LAC/candlesticks?start_ts=1764297900&end_ts=1764384300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC01LACMIA-MIA",
+    "quote_status": "available",
+    "kalshi_prob": 0.695,
+    "yes_bid": 0.69,
+    "yes_ask": 0.7,
+    "last_trade": 0.7,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-02T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 233828.0,
+    "candlestick_count": 1400.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC01LACMIA-MIA/candlesticks?start_ts=1764548100&end_ts=1764634500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV16LACBOS-BOS",
+    "quote_status": "available",
+    "kalshi_prob": 0.665,
+    "yes_bid": 0.66,
+    "yes_ask": 0.67,
+    "last_trade": 0.67,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-16T20:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 256068.0,
+    "candlestick_count": 1315.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV16LACBOS-BOS/candlesticks?start_ts=1763237700&end_ts=1763324100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC07LALPHI-PHI",
+    "quote_status": "available",
+    "kalshi_prob": 0.43,
+    "yes_bid": 0.42,
+    "yes_ask": 0.44,
+    "last_trade": 0.44,
+    "bid_ask_spread": 0.020000000000000018,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-08T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 146723.0,
+    "candlestick_count": 1189.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC07LALPHI-PHI/candlesticks?start_ts=1765066500&end_ts=1765152900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC10SASLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.725,
+    "yes_bid": 0.72,
+    "yes_ask": 0.73,
+    "last_trade": 0.73,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-11T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 2083966.0,
+    "candlestick_count": 1439.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC10SASLAL-LAL/candlesticks?start_ts=1765334700&end_ts=1765421100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC05LALBOS-BOS",
+    "quote_status": "available",
+    "kalshi_prob": 0.745,
+    "yes_bid": 0.74,
+    "yes_ask": 0.75,
+    "last_trade": 0.74,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-05T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 684804.0,
+    "candlestick_count": 1403.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC05LALBOS-BOS/candlesticks?start_ts=1764891900&end_ts=1764978300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC11LACHOU-HOU",
+    "quote_status": "available",
+    "kalshi_prob": 0.775,
+    "yes_bid": 0.77,
+    "yes_ask": 0.78,
+    "last_trade": 0.78,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-12T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 681408.0,
+    "candlestick_count": 1278.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC11LACHOU-HOU/candlesticks?start_ts=1765413900&end_ts=1765500300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC14LALPHX-PHX",
+    "quote_status": "available",
+    "kalshi_prob": 0.525,
+    "yes_bid": 0.52,
+    "yes_ask": 0.53,
+    "last_trade": 0.53,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-15T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 106970.0,
+    "candlestick_count": 1273.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC14LALPHX-PHX/candlesticks?start_ts=1765673100&end_ts=1765759500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT24MINLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.46499999999999997,
+    "yes_bid": 0.46,
+    "yes_ask": 0.47,
+    "last_trade": 0.47,
+    "bid_ask_spread": 0.009999999999999953,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-10-25T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 197925.0,
+    "candlestick_count": 1161.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT24MINLAL-LAL/candlesticks?start_ts=1761270300&end_ts=1761356700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC01PHXLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.675,
+    "yes_bid": 0.67,
+    "yes_ask": 0.68,
+    "last_trade": 0.68,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-02T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 771410.0,
+    "candlestick_count": 1430.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC01PHXLAL-LAL/candlesticks?start_ts=1764557100&end_ts=1764643500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC04LALTOR-TOR",
+    "quote_status": "available",
+    "kalshi_prob": 0.565,
+    "yes_bid": 0.56,
+    "yes_ask": 0.57,
+    "last_trade": 0.57,
+    "bid_ask_spread": 0.009999999999999898,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-05T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 251270.0,
+    "candlestick_count": 1239.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC04LALTOR-TOR/candlesticks?start_ts=1764807300&end_ts=1764893700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC06LACMIN-MIN",
+    "quote_status": "available",
+    "kalshi_prob": 0.765,
+    "yes_bid": 0.76,
+    "yes_ask": 0.77,
+    "last_trade": 0.77,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-07T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 89687.0,
+    "candlestick_count": 1309.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC06LACMIN-MIN/candlesticks?start_ts=1764981900&end_ts=1765068300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC23HOULAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.28500000000000003,
+    "yes_bid": 0.28,
+    "yes_ask": 0.29,
+    "last_trade": 0.3,
+    "bid_ask_spread": 0.009999999999999953,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-24T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 99830.0,
+    "candlestick_count": 1244.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC23HOULAC-LAC/candlesticks?start_ts=1766459700&end_ts=1766546100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC28DETLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.395,
+    "yes_bid": 0.39,
+    "yes_ask": 0.4,
+    "last_trade": 0.4,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-29T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 262391.0,
+    "candlestick_count": 1355.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC28DETLAC-LAC/candlesticks?start_ts=1766886300&end_ts=1766972700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV17LACPHI-PHI",
+    "quote_status": "available",
+    "kalshi_prob": 0.655,
+    "yes_bid": 0.65,
+    "yes_ask": 0.66,
+    "last_trade": 0.66,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-17T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 467720.0,
+    "candlestick_count": 1386.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV17LACPHI-PHI/candlesticks?start_ts=1763336700&end_ts=1763423100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC15MEMLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.65,
+    "yes_bid": 0.64,
+    "yes_ask": 0.66,
+    "last_trade": 0.66,
+    "bid_ask_spread": 0.020000000000000018,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-16T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 197227.0,
+    "candlestick_count": 1382.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC15MEMLAC-LAC/candlesticks?start_ts=1765768500&end_ts=1765854900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC18LALUTA-UTA",
+    "quote_status": "available",
+    "kalshi_prob": 0.225,
+    "yes_bid": 0.22,
+    "yes_ask": 0.23,
+    "last_trade": 0.23,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-19T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 102390.0,
+    "candlestick_count": 1219.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC18LALUTA-UTA/candlesticks?start_ts=1766022300&end_ts=1766108700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC18LACOKC-OKC",
+    "quote_status": "available",
+    "kalshi_prob": 0.915,
+    "yes_bid": 0.91,
+    "yes_ask": 0.92,
+    "last_trade": 0.92,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-19T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 316123.0,
+    "candlestick_count": 1245.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC18LACOKC-OKC/candlesticks?start_ts=1766018700&end_ts=1766105100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC20LALLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.46499999999999997,
+    "yes_bid": 0.46,
+    "yes_ask": 0.47,
+    "last_trade": 0.47,
+    "bid_ask_spread": 0.009999999999999953,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-21T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 103687.0,
+    "candlestick_count": 1341.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC20LALLAC-LAC/candlesticks?start_ts=1766200500&end_ts=1766286900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC23LALPHX-PHX",
+    "quote_status": "available",
+    "kalshi_prob": 0.585,
+    "yes_bid": 0.58,
+    "yes_ask": 0.59,
+    "last_trade": 0.58,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-24T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 116271.0,
+    "candlestick_count": 1269.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC23LALPHX-PHX/candlesticks?start_ts=1766454300&end_ts=1766540700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN02MEMLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.645,
+    "yes_bid": 0.64,
+    "yes_ask": 0.65,
+    "last_trade": 0.65,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-03T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 385305.0,
+    "candlestick_count": 1342.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN02MEMLAL-LAL/candlesticks?start_ts=1767323700&end_ts=1767410100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN04MEMLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.67,
+    "yes_bid": 0.66,
+    "yes_ask": 0.68,
+    "last_trade": 0.68,
+    "bid_ask_spread": 0.020000000000000018,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-05T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 372524.0,
+    "candlestick_count": 1315.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN04MEMLAL-LAL/candlesticks?start_ts=1767492900&end_ts=1767579300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN05GSWLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.415,
+    "yes_bid": 0.41,
+    "yes_ask": 0.42,
+    "last_trade": 0.41,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-06T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 344473.0,
+    "candlestick_count": 1405.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN05GSWLAC-LAC/candlesticks?start_ts=1767581100&end_ts=1767667500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC05LACMEM-MEM",
+    "quote_status": "available",
+    "kalshi_prob": 0.455,
+    "yes_bid": 0.45,
+    "yes_ask": 0.46,
+    "last_trade": 0.46,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-06T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 204803.0,
+    "candlestick_count": 1310.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC05LACMEM-MEM/candlesticks?start_ts=1764895500&end_ts=1764981900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC28SACLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.805,
+    "yes_bid": 0.8,
+    "yes_ask": 0.81,
+    "last_trade": 0.81,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-29T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 410663.0,
+    "candlestick_count": 1409.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC28SACLAL-LAL/candlesticks?start_ts=1766888100&end_ts=1766974500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC30SACLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.775,
+    "yes_bid": 0.77,
+    "yes_ask": 0.78,
+    "last_trade": 0.77,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-31T03:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 122225.0,
+    "candlestick_count": 1420.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC30SACLAC-LAC/candlesticks?start_ts=1767066300&end_ts=1767152700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN09MILLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.59,
+    "yes_bid": 0.58,
+    "yes_ask": 0.6,
+    "last_trade": 0.6,
+    "bid_ask_spread": 0.020000000000000018,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-10T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 571251.0,
+    "candlestick_count": 1374.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN09MILLAL-LAL/candlesticks?start_ts=1767928500&end_ts=1768014900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN03BOSLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.525,
+    "yes_bid": 0.52,
+    "yes_ask": 0.53,
+    "last_trade": 0.53,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-04T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 308539.0,
+    "candlestick_count": 1214.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN03BOSLAC-LAC/candlesticks?start_ts=1767410100&end_ts=1767496500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV08LALATL-ATL",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV03MIALAC-LAC",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV05SASLAL-LAL",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN10LACDET-DET",
+    "quote_status": "available",
+    "kalshi_prob": 0.525,
+    "yes_bid": 0.52,
+    "yes_ask": 0.53,
+    "last_trade": 0.53,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-11T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 317687.0,
+    "candlestick_count": 1327.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN10LACDET-DET/candlesticks?start_ts=1768004100&end_ts=1768090500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV06LACPHX-PHX",
+    "quote_status": "available",
+    "kalshi_prob": 0.575,
+    "yes_bid": 0.57,
+    "yes_ask": 0.58,
+    "last_trade": 0.58,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-07T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1497032.0,
+    "candlestick_count": 1245.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV06LACPHX-PHX/candlesticks?start_ts=1762393500&end_ts=1762479900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN12CHALAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.645,
+    "yes_bid": 0.64,
+    "yes_ask": 0.65,
+    "last_trade": 0.65,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-13T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 178146.0,
+    "candlestick_count": 1307.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN12CHALAC-LAC/candlesticks?start_ts=1768187700&end_ts=1768274100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25OCT24PHXLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.775,
+    "yes_bid": 0.77,
+    "yes_ask": 0.78,
+    "last_trade": NaN,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-10-25T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 25140.0,
+    "candlestick_count": 1360.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25OCT24PHXLAC-LAC/candlesticks?start_ts=1761272100&end_ts=1761358500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN15CHALAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.595,
+    "yes_bid": 0.59,
+    "yes_ask": 0.6,
+    "last_trade": 0.6,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-16T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1172708.0,
+    "candlestick_count": 1242.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN15CHALAL-LAL/candlesticks?start_ts=1768446900&end_ts=1768533300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN07LACNYK-NYK",
+    "quote_status": "available",
+    "kalshi_prob": 0.635,
+    "yes_bid": 0.63,
+    "yes_ask": 0.64,
+    "last_trade": 0.64,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-08T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 371797.0,
+    "candlestick_count": 1346.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN07LACNYK-NYK/candlesticks?start_ts=1767744900&end_ts=1767831300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV22LACCHA-CHA",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN17LALPOR-POR",
+    "quote_status": "available",
+    "kalshi_prob": 0.575,
+    "yes_bid": 0.57,
+    "yes_ask": 0.58,
+    "last_trade": 0.57,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-18T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 167771.0,
+    "candlestick_count": 1325.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN17LALPOR-POR/candlesticks?start_ts=1768617900&end_ts=1768704300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV23LALUTA-UTA",
+    "quote_status": "available",
+    "kalshi_prob": 0.20500000000000002,
+    "yes_bid": 0.2,
+    "yes_ask": 0.21,
+    "last_trade": 0.21,
+    "bid_ask_spread": 0.009999999999999981,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-24T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 42281.0,
+    "candlestick_count": 1187.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV23LALUTA-UTA/candlesticks?start_ts=1763858700&end_ts=1763945100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV28DALLAL-LAL",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN20LACCHI-CHI",
+    "quote_status": "available",
+    "kalshi_prob": 0.565,
+    "yes_bid": 0.56,
+    "yes_ask": 0.57,
+    "last_trade": 0.57,
+    "bid_ask_spread": 0.009999999999999898,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-21T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 126908.0,
+    "candlestick_count": 1374.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN20LACCHI-CHI/candlesticks?start_ts=1768869900&end_ts=1768956300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN20LALDEN-DEN",
+    "quote_status": "available",
+    "kalshi_prob": 0.415,
+    "yes_bid": 0.41,
+    "yes_ask": 0.42,
+    "last_trade": 0.42,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-21T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 430021.0,
+    "candlestick_count": 1376.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN20LALDEN-DEN/candlesticks?start_ts=1768877100&end_ts=1768963500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN25BKNLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.805,
+    "yes_bid": 0.8,
+    "yes_ask": 0.81,
+    "last_trade": NaN,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-26T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 234551.0,
+    "candlestick_count": 1269.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN25BKNLAC-LAC/candlesticks?start_ts=1769305500&end_ts=1769391900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN14WASLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.815,
+    "yes_bid": 0.81,
+    "yes_ask": 0.82,
+    "last_trade": 0.82,
+    "bid_ask_spread": 0.009999999999999898,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-15T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 133865.0,
+    "candlestick_count": 1394.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN14WASLAC-LAC/candlesticks?start_ts=1768360500&end_ts=1768446900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN19LACWAS-WAS",
+    "quote_status": "available",
+    "kalshi_prob": 0.28500000000000003,
+    "yes_bid": 0.28,
+    "yes_ask": 0.29,
+    "last_trade": 0.29,
+    "bid_ask_spread": 0.009999999999999953,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-19T19:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 50333.0,
+    "candlestick_count": 1339.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN19LACWAS-WAS/candlesticks?start_ts=1768765500&end_ts=1768851900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN18TORLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.555,
+    "yes_bid": 0.55,
+    "yes_ask": 0.56,
+    "last_trade": 0.56,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-19T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 212690.0,
+    "candlestick_count": 1378.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN18TORLAL-LAL/candlesticks?start_ts=1768702500&end_ts=1768788900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC03LACATL-ATL",
+    "quote_status": "available",
+    "kalshi_prob": 0.545,
+    "yes_bid": 0.54,
+    "yes_ask": 0.55,
+    "last_trade": 0.55,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-04T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 921623.0,
+    "candlestick_count": 1387.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC03LACATL-ATL/candlesticks?start_ts=1764720900&end_ts=1764807300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25NOV29DALLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.765,
+    "yes_bid": 0.76,
+    "yes_ask": 0.77,
+    "last_trade": 0.77,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-11-30T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 43889.0,
+    "candlestick_count": 1332.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25NOV29DALLAC-LAC/candlesticks?start_ts=1764384300&end_ts=1764470700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB01LACPHX-PHX",
+    "quote_status": "available",
+    "kalshi_prob": 0.585,
+    "yes_bid": 0.58,
+    "yes_ask": 0.59,
+    "last_trade": 0.59,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-02T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 928604.0,
+    "candlestick_count": 1287.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB01LACPHX-PHX/candlesticks?start_ts=1769906700&end_ts=1769993100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN24LALDAL-DAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.385,
+    "yes_bid": 0.38,
+    "yes_ask": 0.39,
+    "last_trade": 0.39,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-25T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 275765.0,
+    "candlestick_count": 1294.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN24LALDAL-DAL/candlesticks?start_ts=1769217300&end_ts=1769303700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB03LALBKN-BKN",
+    "quote_status": "available",
+    "kalshi_prob": 0.255,
+    "yes_bid": 0.25,
+    "yes_ask": 0.26,
+    "last_trade": 0.26,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-04T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 72710.0,
+    "candlestick_count": 1211.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB03LALBKN-BKN/candlesticks?start_ts=1770077700&end_ts=1770164100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN26LALCHI-CHI",
+    "quote_status": "available",
+    "kalshi_prob": 0.475,
+    "yes_bid": 0.47,
+    "yes_ask": 0.48,
+    "last_trade": 0.48,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-27T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 620894.0,
+    "candlestick_count": 1342.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN26LALCHI-CHI/candlesticks?start_ts=1769388300&end_ts=1769474700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB05PHILAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.565,
+    "yes_bid": 0.56,
+    "yes_ask": 0.57,
+    "last_trade": 0.56,
+    "bid_ask_spread": 0.009999999999999898,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-06T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 522989.0,
+    "candlestick_count": 1267.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB05PHILAL-LAL/candlesticks?start_ts=1770259500&end_ts=1770345900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN09LACBKN-BKN",
+    "quote_status": "available",
+    "kalshi_prob": 0.335,
+    "yes_bid": 0.33,
+    "yes_ask": 0.34,
+    "last_trade": 0.34,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-10T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 170104.0,
+    "candlestick_count": 1285.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN09LACBKN-BKN/candlesticks?start_ts=1767917700&end_ts=1768004100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC25HOULAL-LAL",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC26LACPOR-POR",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN12LALSAC-SAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.24,
+    "yes_bid": 0.23,
+    "yes_ask": 0.25,
+    "last_trade": 0.25,
+    "bid_ask_spread": 0.01999999999999999,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-13T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 419357.0,
+    "candlestick_count": 1344.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN12LALSAC-SAC/candlesticks?start_ts=1768185900&end_ts=1768272300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN30LALWAS-WAS",
+    "quote_status": "available",
+    "kalshi_prob": 0.185,
+    "yes_bid": 0.18,
+    "yes_ask": 0.19,
+    "last_trade": 0.19,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-30T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 371351.0,
+    "candlestick_count": 1293.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN30LALWAS-WAS/candlesticks?start_ts=1769730300&end_ts=1769816700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN28LALCLE-CLE",
+    "quote_status": "available",
+    "kalshi_prob": 0.605,
+    "yes_bid": 0.6,
+    "yes_ask": 0.61,
+    "last_trade": 0.61,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-28T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 351699.0,
+    "candlestick_count": 1364.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN28LALCLE-CLE/candlesticks?start_ts=1769557500&end_ts=1769643900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB08LACMIN-MIN",
+    "quote_status": "available",
+    "kalshi_prob": 0.765,
+    "yes_bid": 0.76,
+    "yes_ask": 0.77,
+    "last_trade": 0.77,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-08T19:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 179973.0,
+    "candlestick_count": 1266.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB08LACMIN-MIN/candlesticks?start_ts=1770493500&end_ts=1770579900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB11LACHOU-HOU",
+    "quote_status": "available",
+    "kalshi_prob": 0.745,
+    "yes_bid": 0.74,
+    "yes_ask": 0.75,
+    "last_trade": 0.75,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-12T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 75013.0,
+    "candlestick_count": 634.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB11LACHOU-HOU/candlesticks?start_ts=1770770700&end_ts=1770857100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB04CLELAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.425,
+    "yes_bid": 0.42,
+    "yes_ask": 0.43,
+    "last_trade": 0.43,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-05T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 160346.0,
+    "candlestick_count": 1281.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB04CLELAC-LAC/candlesticks?start_ts=1770174900&end_ts=1770261300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB20LACLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.685,
+    "yes_bid": 0.68,
+    "yes_ask": 0.69,
+    "last_trade": 0.68,
+    "bid_ask_spread": 0.009999999999999898,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-21T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 514159.0,
+    "candlestick_count": 1208.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB20LACLAL-LAL/candlesticks?start_ts=1771555500&end_ts=1771641900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN01UTALAC-LAC",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-25DEC30DETLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.435,
+    "yes_bid": 0.43,
+    "yes_ask": 0.44,
+    "last_trade": 0.44,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2025-12-31T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 586808.0,
+    "candlestick_count": 1411.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-25DEC30DETLAL-LAL/candlesticks?start_ts=1767064500&end_ts=1767150900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN22LALLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.565,
+    "yes_bid": 0.56,
+    "yes_ask": 0.57,
+    "last_trade": 0.57,
+    "bid_ask_spread": 0.009999999999999898,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-23T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 382785.0,
+    "candlestick_count": 1242.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN22LALLAC-LAC/candlesticks?start_ts=1769049900&end_ts=1769136300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB22BOSLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.485,
+    "yes_bid": 0.48,
+    "yes_ask": 0.49,
+    "last_trade": 0.49,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-22T23:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1215255.0,
+    "candlestick_count": 1205.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB22BOSLAL-LAL/candlesticks?start_ts=1771715700&end_ts=1771802100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN27LACUTA-UTA",
+    "quote_status": "available",
+    "kalshi_prob": 0.245,
+    "yes_bid": 0.24,
+    "yes_ask": 0.25,
+    "last_trade": 0.24,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-28T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 162710.0,
+    "candlestick_count": 1329.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN27LACUTA-UTA/candlesticks?start_ts=1769481900&end_ts=1769568300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB09OKCLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.325,
+    "yes_bid": 0.32,
+    "yes_ask": 0.33,
+    "last_trade": 0.33,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-10T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1246794.0,
+    "candlestick_count": 1435.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB09OKCLAL-LAL/candlesticks?start_ts=1770605100&end_ts=1770691500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB19DENLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.375,
+    "yes_bid": 0.37,
+    "yes_ask": 0.38,
+    "last_trade": 0.38,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-20T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 132449.0,
+    "candlestick_count": 832.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB19DENLAC-LAC/candlesticks?start_ts=1771470900&end_ts=1771557300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN06LALNOP-NOP",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR01SACLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.865,
+    "yes_bid": 0.86,
+    "yes_ask": 0.87,
+    "last_trade": 0.87,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-02T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 557590.0,
+    "candlestick_count": 1042.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR01SACLAL-LAL/candlesticks?start_ts=1772331300&end_ts=1772417700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN07LALSAS-SAS",
+    "quote_status": "available",
+    "kalshi_prob": 0.725,
+    "yes_bid": 0.72,
+    "yes_ask": 0.73,
+    "last_trade": 0.73,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-08T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 318630.0,
+    "candlestick_count": 1370.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN07LALSAS-SAS/candlesticks?start_ts=1767752100&end_ts=1767838500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB22ORLLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.625,
+    "yes_bid": 0.62,
+    "yes_ask": 0.63,
+    "last_trade": 0.63,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-23T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 284227.0,
+    "candlestick_count": 1012.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB22ORLLAC-LAC/candlesticks?start_ts=1771724700&end_ts=1771811100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR03NOPLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.755,
+    "yes_bid": 0.75,
+    "yes_ask": 0.76,
+    "last_trade": 0.76,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-04T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1018487.0,
+    "candlestick_count": 1209.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR03NOPLAL-LAL/candlesticks?start_ts=1772507700&end_ts=1772594100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB24ORLLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.685,
+    "yes_bid": 0.68,
+    "yes_ask": 0.69,
+    "last_trade": 0.69,
+    "bid_ask_spread": 0.009999999999999898,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-25T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 424968.0,
+    "candlestick_count": 1164.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB24ORLLAL-LAL/candlesticks?start_ts=1771902900&end_ts=1771989300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB26LALPHX-PHX",
+    "quote_status": "available",
+    "kalshi_prob": 0.335,
+    "yes_bid": 0.33,
+    "yes_ask": 0.34,
+    "last_trade": 0.34,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-27T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 125789.0,
+    "candlestick_count": 1007.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB26LALPHX-PHX/candlesticks?start_ts=1772070300&end_ts=1772156700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR07LACMEM-MEM",
+    "quote_status": "available",
+    "kalshi_prob": 0.275,
+    "yes_bid": 0.27,
+    "yes_ask": 0.28,
+    "last_trade": 0.27,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-08T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 145463.0,
+    "candlestick_count": 977.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR07LACMEM-MEM/candlesticks?start_ts=1772844300&end_ts=1772930700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN13ATLLAL-LAL",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN30LACDEN-DEN",
+    "quote_status": "available",
+    "kalshi_prob": 0.435,
+    "yes_bid": 0.43,
+    "yes_ask": 0.44,
+    "last_trade": 0.44,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-01-31T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1018426.0,
+    "candlestick_count": 1339.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26JAN30LACDEN-DEN/candlesticks?start_ts=1769737500&end_ts=1769823900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB06LACSAC-SAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.405,
+    "yes_bid": 0.4,
+    "yes_ask": 0.41,
+    "last_trade": 0.4,
+    "bid_ask_spread": 0.009999999999999953,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-07T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 482469.0,
+    "candlestick_count": 1322.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB06LACSAC-SAC/candlesticks?start_ts=1770345900&end_ts=1770432300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR10MINLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.445,
+    "yes_bid": 0.44,
+    "yes_ask": 0.45,
+    "last_trade": 0.45,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-11T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 838977.0,
+    "candlestick_count": 1260.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR10MINLAL-LAL/candlesticks?start_ts=1773110700&end_ts=1773197100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26JAN16LACTOR-TOR",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR02LACGSW-GSW",
+    "quote_status": "available",
+    "kalshi_prob": 0.485,
+    "yes_bid": 0.48,
+    "yes_ask": 0.49,
+    "last_trade": 0.49,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-03T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 535258.0,
+    "candlestick_count": 1285.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR02LACGSW-GSW/candlesticks?start_ts=1772419500&end_ts=1772505900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR12CHILAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.835,
+    "yes_bid": 0.83,
+    "yes_ask": 0.84,
+    "last_trade": 0.84,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-13T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 407010.0,
+    "candlestick_count": 872.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR12CHILAL-LAL/candlesticks?start_ts=1773281700&end_ts=1773368100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR05LALDEN-DEN",
+    "quote_status": "available",
+    "kalshi_prob": 0.605,
+    "yes_bid": 0.6,
+    "yes_ask": 0.61,
+    "last_trade": 0.61,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-06T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 333872.0,
+    "candlestick_count": 1210.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR05LALDEN-DEN/candlesticks?start_ts=1772678700&end_ts=1772765100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR14DENLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.46499999999999997,
+    "yes_bid": 0.46,
+    "yes_ask": 0.47,
+    "last_trade": 0.47,
+    "bid_ask_spread": 0.009999999999999953,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-15T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 709575.0,
+    "candlestick_count": 1222.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR14DENLAL-LAL/candlesticks?start_ts=1773447300&end_ts=1773533700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR08NYKLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.365,
+    "yes_bid": 0.36,
+    "yes_ask": 0.37,
+    "last_trade": 0.37,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-08T19:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 573460.0,
+    "candlestick_count": 1205.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR08NYKLAL-LAL/candlesticks?start_ts=1772910900&end_ts=1772997300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR09NYKLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.46499999999999997,
+    "yes_bid": 0.46,
+    "yes_ask": 0.47,
+    "last_trade": 0.46,
+    "bid_ask_spread": 0.009999999999999953,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-10T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 296612.0,
+    "candlestick_count": 1203.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR09NYKLAC-LAC/candlesticks?start_ts=1773020700&end_ts=1773107100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR18LACNOP-NOP",
+    "quote_status": "available",
+    "kalshi_prob": 0.455,
+    "yes_bid": 0.45,
+    "yes_ask": 0.46,
+    "last_trade": 0.46,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-18T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 256613.0,
+    "candlestick_count": 1008.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR18LACNOP-NOP/candlesticks?start_ts=1773791100&end_ts=1773877500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB26MINLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.255,
+    "yes_bid": 0.25,
+    "yes_ask": 0.26,
+    "last_trade": 0.26,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-27T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 187034.0,
+    "candlestick_count": 1000.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB26MINLAC-LAC/candlesticks?start_ts=1772073900&end_ts=1772160300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB28LALGSW-GSW",
+    "quote_status": "available",
+    "kalshi_prob": 0.405,
+    "yes_bid": 0.4,
+    "yes_ask": 0.41,
+    "last_trade": 0.41,
+    "bid_ask_spread": 0.009999999999999953,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-01T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 557440.0,
+    "candlestick_count": 1257.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB28LALGSW-GSW/candlesticks?start_ts=1772241300&end_ts=1772327700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR13CHILAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.865,
+    "yes_bid": 0.86,
+    "yes_ask": 0.87,
+    "last_trade": 0.87,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-14T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 163514.0,
+    "candlestick_count": 762.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR13CHILAC-LAC/candlesticks?start_ts=1773368100&end_ts=1773454500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR14SACLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.885,
+    "yes_bid": 0.88,
+    "yes_ask": 0.89,
+    "last_trade": 0.89,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-15T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 489444.0,
+    "candlestick_count": 909.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR14SACLAC-LAC/candlesticks?start_ts=1773454500&end_ts=1773540900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR16LALHOU-HOU",
+    "quote_status": "available",
+    "kalshi_prob": 0.485,
+    "yes_bid": 0.48,
+    "yes_ask": 0.49,
+    "last_trade": 0.49,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-17T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 480584.0,
+    "candlestick_count": 1246.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR16LALHOU-HOU/candlesticks?start_ts=1773623700&end_ts=1773710100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR18LALHOU-HOU",
+    "quote_status": "available",
+    "kalshi_prob": 0.545,
+    "yes_bid": 0.54,
+    "yes_ask": 0.55,
+    "last_trade": 0.55,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-19T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 615392.0,
+    "candlestick_count": 1162.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR18LALHOU-HOU/candlesticks?start_ts=1773796500&end_ts=1773882900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB01LALNYK-NYK",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB02PHILAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.485,
+    "yes_bid": 0.48,
+    "yes_ask": 0.49,
+    "last_trade": 0.49,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-03T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 663255.0,
+    "candlestick_count": 1440.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB02PHILAC-LAC/candlesticks?start_ts=1770000300&end_ts=1770086700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR27BKNLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.945,
+    "yes_bid": 0.94,
+    "yes_ask": 0.95,
+    "last_trade": 0.95,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-28T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 199560.0,
+    "candlestick_count": 1007.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR27BKNLAL-LAL/candlesticks?start_ts=1774577700&end_ts=1774664100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR04INDLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.835,
+    "yes_bid": 0.83,
+    "yes_ask": 0.84,
+    "last_trade": 0.83,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-05T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 430258.0,
+    "candlestick_count": 1094.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR04INDLAC-LAC/candlesticks?start_ts=1772594100&end_ts=1772680500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR06LACSAS-SAS",
+    "quote_status": "available",
+    "kalshi_prob": 0.715,
+    "yes_bid": 0.71,
+    "yes_ask": 0.72,
+    "last_trade": 0.72,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-07T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 714839.0,
+    "candlestick_count": 1234.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR06LACSAS-SAS/candlesticks?start_ts=1772763300&end_ts=1772849700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR21LALORL-ORL",
+    "quote_status": "available",
+    "kalshi_prob": 0.395,
+    "yes_bid": 0.39,
+    "yes_ask": 0.4,
+    "last_trade": 0.4,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-21T22:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 197060.0,
+    "candlestick_count": 1042.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR21LALORL-ORL/candlesticks?start_ts=1774046700&end_ts=1774133100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR30WASLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.915,
+    "yes_bid": 0.91,
+    "yes_ask": 0.92,
+    "last_trade": 0.92,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-31T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 190167.0,
+    "candlestick_count": 1046.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR30WASLAL-LAL/candlesticks?start_ts=1774835100&end_ts=1774921500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR23LALDET-DET",
+    "quote_status": "available",
+    "kalshi_prob": 0.485,
+    "yes_bid": 0.48,
+    "yes_ask": 0.49,
+    "last_trade": 0.49,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-23T22:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 752682.0,
+    "candlestick_count": 1291.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR23LALDET-DET/candlesticks?start_ts=1774219500&end_ts=1774305900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB10SASLAL-LAL",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB10LACHOU-HOU",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB07GSWLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.545,
+    "yes_bid": 0.54,
+    "yes_ask": 0.55,
+    "last_trade": 0.55,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-08T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1552726.0,
+    "candlestick_count": 1428.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB07GSWLAL-LAL/candlesticks?start_ts=1770426900&end_ts=1770513300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR02SASLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.555,
+    "yes_bid": 0.55,
+    "yes_ask": 0.56,
+    "last_trade": 0.55,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-03T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 988381.0,
+    "candlestick_count": 910.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR02SASLAC-LAC/candlesticks?start_ts=1775096100&end_ts=1775182500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26FEB12DALLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.695,
+    "yes_bid": 0.69,
+    "yes_ask": 0.7,
+    "last_trade": 0.7,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-02-13T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1231425.0,
+    "candlestick_count": 1277.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26FEB12DALLAL-LAL/candlesticks?start_ts=1770864300&end_ts=1770950700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR07DALLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.845,
+    "yes_bid": 0.84,
+    "yes_ask": 0.85,
+    "last_trade": 0.85,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-08T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 105351.0,
+    "candlestick_count": 837.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR07DALLAC-LAC/candlesticks?start_ts=1775528100&end_ts=1775614500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR31CLELAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.555,
+    "yes_bid": 0.55,
+    "yes_ask": 0.56,
+    "last_trade": 0.56,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-01T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1114784.0,
+    "candlestick_count": 1245.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR31CLELAL-LAL/candlesticks?start_ts=1774923300&end_ts=1775009700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR08OKCLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.245,
+    "yes_bid": 0.24,
+    "yes_ask": 0.25,
+    "last_trade": 0.25,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-09T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 116464.0,
+    "candlestick_count": 1063.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR08OKCLAC-LAC/candlesticks?start_ts=1775612700&end_ts=1775699100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR19LACNOP-NOP",
+    "quote_status": "available",
+    "kalshi_prob": 0.605,
+    "yes_bid": 0.6,
+    "yes_ask": 0.61,
+    "last_trade": 0.61,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-19T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 599665.0,
+    "candlestick_count": 1045.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR19LACNOP-NOP/candlesticks?start_ts=1773877500&end_ts=1773963900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR02LALOKC-OKC",
+    "quote_status": "available",
+    "kalshi_prob": 0.765,
+    "yes_bid": 0.76,
+    "yes_ask": 0.77,
+    "last_trade": 0.77,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-03T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 383384.0,
+    "candlestick_count": 1171.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR02LALOKC-OKC/candlesticks?start_ts=1775092500&end_ts=1775178900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR12GSWLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.615,
+    "yes_bid": 0.61,
+    "yes_ask": 0.62,
+    "last_trade": 0.62,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-13T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 190231.0,
+    "candlestick_count": 764.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR12GSWLAC-LAC/candlesticks?start_ts=1775952900&end_ts=1776039300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR21LACDAL-DAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.295,
+    "yes_bid": 0.29,
+    "yes_ask": 0.3,
+    "last_trade": 0.3,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-22T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 45729.0,
+    "candlestick_count": 915.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR21LACDAL-DAL/candlesticks?start_ts=1774052100&end_ts=1774138500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR05LALDAL-DAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.485,
+    "yes_bid": 0.48,
+    "yes_ask": 0.49,
+    "last_trade": 0.49,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-05T23:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 736494.0,
+    "candlestick_count": 1165.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR05LALDAL-DAL/candlesticks?start_ts=1775344500&end_ts=1775430900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR01NOPLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.745,
+    "yes_bid": 0.74,
+    "yes_ask": 0.75,
+    "last_trade": 0.75,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-02T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 265158.0,
+    "candlestick_count": 966.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR01NOPLAC-LAC/candlesticks?start_ts=1772329500&end_ts=1772415900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR24LALHOU-HOU",
+    "quote_status": "available",
+    "kalshi_prob": 0.665,
+    "yes_bid": 0.66,
+    "yes_ask": 0.67,
+    "last_trade": 0.67,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-24T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 944184.6500000004,
+    "candlestick_count": 1294.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR24LALHOU-HOU/candlesticks?start_ts=1776987900&end_ts=1777074300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR25LALIND-IND",
+    "quote_status": "available",
+    "kalshi_prob": 0.215,
+    "yes_bid": 0.21,
+    "yes_ask": 0.22,
+    "last_trade": 0.22,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-25T22:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 331235.0,
+    "candlestick_count": 1112.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR25LALIND-IND/candlesticks?start_ts=1774392300&end_ts=1774478700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR25TORLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.615,
+    "yes_bid": 0.61,
+    "yes_ask": 0.62,
+    "last_trade": 0.62,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-26T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 138417.0,
+    "candlestick_count": 893.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR25TORLAC-LAC/candlesticks?start_ts=1774404900&end_ts=1774491300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR06INDLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.785,
+    "yes_bid": 0.78,
+    "yes_ask": 0.79,
+    "last_trade": 0.79,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-07T03:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 327296.0,
+    "candlestick_count": 1172.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR06INDLAL-LAL/candlesticks?start_ts=1772766900&end_ts=1772853300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR27LACIND-IND",
+    "quote_status": "available",
+    "kalshi_prob": 0.225,
+    "yes_bid": 0.22,
+    "yes_ask": 0.23,
+    "last_trade": 0.23,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-27T22:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 53530.0,
+    "candlestick_count": 1156.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR27LACIND-IND/candlesticks?start_ts=1774565100&end_ts=1774651500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR18HOULAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.435,
+    "yes_bid": 0.43,
+    "yes_ask": 0.44,
+    "last_trade": 0.44,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-19T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 2172458.2599999993,
+    "candlestick_count": 1313.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR18HOULAL-LAL/candlesticks?start_ts=1776471300&end_ts=1776557700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAY07LALOKC-OKC",
+    "quote_status": "available",
+    "kalshi_prob": 0.885,
+    "yes_bid": 0.88,
+    "yes_ask": 0.89,
+    "last_trade": 0.89,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-05-08T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 3840694.9200000004,
+    "candlestick_count": 1263.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAY07LALOKC-OKC/candlesticks?start_ts=1778116500&end_ts=1778202900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR11MINLAC-LAC",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26MAY09OKCLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.245,
+    "yes_bid": 0.24,
+    "yes_ask": 0.25,
+    "last_trade": 0.25,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-05-10T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 5628904.330000003,
+    "candlestick_count": 1424.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAY09OKCLAL-LAL/candlesticks?start_ts=1778285700&end_ts=1778372100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR31PORLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.645,
+    "yes_bid": 0.64,
+    "yes_ask": 0.65,
+    "last_trade": 0.65,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-01T02:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 823552.0,
+    "candlestick_count": 1020.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR31PORLAC-LAC/candlesticks?start_ts=1774925100&end_ts=1775011500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR26LALHOU-HOU",
+    "quote_status": "available",
+    "kalshi_prob": 0.595,
+    "yes_bid": 0.59,
+    "yes_ask": 0.6,
+    "last_trade": 0.6,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-27T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1197348.5400000003,
+    "candlestick_count": 1158.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR26LALHOU-HOU/candlesticks?start_ts=1777166100&end_ts=1777252500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR16SASLAC-LAC",
+    "quote_status": "missing",
+    "kalshi_prob": NaN,
+    "yes_bid": NaN,
+    "yes_ask": NaN,
+    "last_trade": NaN,
+    "bid_ask_spread": NaN,
+    "price_source": null,
+    "quote_time_utc": null,
+    "minutes_before_tip": NaN,
+    "pregame_volume": NaN,
+    "candlestick_count": NaN,
+    "request_url": null
+  },
+  {
+    "ticker": "KXNBAGAME-26APR29HOULAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.595,
+    "yes_bid": 0.59,
+    "yes_ask": 0.6,
+    "last_trade": 0.6,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-30T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1946808.8100000015,
+    "candlestick_count": 1402.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR29HOULAL-LAL/candlesticks?start_ts=1777427100&end_ts=1777513500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAY05LALOKC-OKC",
+    "quote_status": "available",
+    "kalshi_prob": 0.855,
+    "yes_bid": 0.85,
+    "yes_ask": 0.86,
+    "last_trade": 0.86,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-05-06T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 2138156.14,
+    "candlestick_count": 1302.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAY05LALOKC-OKC/candlesticks?start_ts=1777940100&end_ts=1778026500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR09LALGSW-GSW",
+    "quote_status": "available",
+    "kalshi_prob": 0.525,
+    "yes_bid": 0.52,
+    "yes_ask": 0.53,
+    "last_trade": 0.53,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-10T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 683485.0,
+    "candlestick_count": 1173.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR09LALGSW-GSW/candlesticks?start_ts=1775699100&end_ts=1775785500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR19LALMIA-MIA",
+    "quote_status": "available",
+    "kalshi_prob": 0.575,
+    "yes_bid": 0.57,
+    "yes_ask": 0.58,
+    "last_trade": 0.57,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-19T23:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 536662.0,
+    "candlestick_count": 1099.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR19LALMIA-MIA/candlesticks?start_ts=1773877500&end_ts=1773963900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR10LACPOR-POR",
+    "quote_status": "available",
+    "kalshi_prob": 0.525,
+    "yes_bid": 0.52,
+    "yes_ask": 0.53,
+    "last_trade": 0.53,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-11T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 250285.0,
+    "candlestick_count": 1065.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR10LACPOR-POR/candlesticks?start_ts=1775785500&end_ts=1775871900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAY11OKCLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.175,
+    "yes_bid": 0.17,
+    "yes_ask": 0.18,
+    "last_trade": 0.18,
+    "bid_ask_spread": 0.009999999999999981,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-05-12T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 7431472.000000006,
+    "candlestick_count": 1437.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAY11OKCLAL-LAL/candlesticks?start_ts=1778465700&end_ts=1778552100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR12UTALAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.895,
+    "yes_bid": 0.89,
+    "yes_ask": 0.9,
+    "last_trade": 0.9,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-13T00:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 182466.0,
+    "candlestick_count": 1155.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR12UTALAL-LAL/candlesticks?start_ts=1775952900&end_ts=1776039300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR15GSWLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.675,
+    "yes_bid": 0.67,
+    "yes_ask": 0.68,
+    "last_trade": 0.68,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-16T01:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1009351.0,
+    "candlestick_count": 1286.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR15GSWLAC-LAC/candlesticks?start_ts=1776217500&end_ts=1776303900&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR23MILLAC-LAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.875,
+    "yes_bid": 0.87,
+    "yes_ask": 0.88,
+    "last_trade": 0.88,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-24T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 71937.0,
+    "candlestick_count": 787.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR23MILLAC-LAC/candlesticks?start_ts=1774232100&end_ts=1774318500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR21HOULAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.325,
+    "yes_bid": 0.32,
+    "yes_ask": 0.33,
+    "last_trade": 0.33,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-22T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 2987151.9300000025,
+    "candlestick_count": 1416.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR21HOULAL-LAL/candlesticks?start_ts=1776737700&end_ts=1776824100&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAY01LALHOU-HOU",
+    "quote_status": "available",
+    "kalshi_prob": 0.605,
+    "yes_bid": 0.6,
+    "yes_ask": 0.61,
+    "last_trade": 0.61,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-05-02T01:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 772661.8399999999,
+    "candlestick_count": 1257.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAY01LALHOU-HOU/candlesticks?start_ts=1777598100&end_ts=1777684500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26MAR29LACMIL-MIL",
+    "quote_status": "available",
+    "kalshi_prob": 0.08499999999999999,
+    "yes_bid": 0.08,
+    "yes_ask": 0.09,
+    "last_trade": 0.09,
+    "bid_ask_spread": 0.009999999999999995,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-03-29T19:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 381846.0,
+    "candlestick_count": 1280.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26MAR29LACMIL-MIL/candlesticks?start_ts=1774725300&end_ts=1774811700&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR05LACSAC-SAC",
+    "quote_status": "available",
+    "kalshi_prob": 0.135,
+    "yes_bid": 0.13,
+    "yes_ask": 0.14,
+    "last_trade": 0.14,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-06T00:45:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 263086.0,
+    "candlestick_count": 906.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR05LACSAC-SAC/candlesticks?start_ts=1775349900&end_ts=1775436300&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR07OKCLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.055,
+    "yes_bid": 0.05,
+    "yes_ask": 0.06,
+    "last_trade": 0.06,
+    "bid_ask_spread": 0.009999999999999995,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-08T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1535092.0,
+    "candlestick_count": 1374.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR07OKCLAL-LAL/candlesticks?start_ts=1775528100&end_ts=1775614500&period_interval=1"
+  },
+  {
+    "ticker": "KXNBAGAME-26APR10PHXLAL-LAL",
+    "quote_status": "available",
+    "kalshi_prob": 0.455,
+    "yes_bid": 0.45,
+    "yes_ask": 0.46,
+    "last_trade": 0.46,
+    "bid_ask_spread": 0.010000000000000009,
+    "price_source": "bid_ask_midpoint",
+    "quote_time_utc": "2026-04-11T02:15:00+00:00",
+    "minutes_before_tip": 15.0,
+    "pregame_volume": 1083414.0,
+    "candlestick_count": 1258.0,
+    "request_url": "https://api.elections.kalshi.com/trade-api/v2/historical/markets/KXNBAGAME-26APR10PHXLAL-LAL/candlesticks?start_ts=1775787300&end_ts=1775873700&period_interval=1"
   }
 ]

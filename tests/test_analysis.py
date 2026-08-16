@@ -13,19 +13,55 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from clean_data import canonical_team, prepare_markets  # noqa: E402
+from clean_data import (  # noqa: E402
+    canonical_market_team,
+    canonical_team,
+    prepare_markets,
+)
 from analyze_data import build_features  # noqa: E402
 
 
 def test_team_normalization() -> None:
-    """Kalshi city labels must map to Basketball Reference names."""
+    """Check that Kalshi city labels map to Basketball Reference names.
+
+    Inputs:
+        None. Uses fixed representative team labels.
+    Returns:
+        None. Raises AssertionError if normalization is incorrect.
+    """
     assert canonical_team("LA Lakers") == "Los Angeles Lakers"
     assert canonical_team("Oklahoma City") == "Oklahoma City Thunder"
     assert canonical_team("San Antonio Spurs") == "San Antonio Spurs"
+    assert canonical_team("Los Angeles C") == "Los Angeles Clippers"
+    assert canonical_team("Los Angeles L") == "Los Angeles Lakers"
+
+
+def test_market_team_normalization() -> None:
+    """Check ticker-based normalization of ambiguous Los Angeles labels.
+
+    Inputs:
+        None. Uses the LA label and ticker formats observed in the raw data.
+    Returns:
+        None. Raises AssertionError if either LA team is misidentified.
+    """
+    assert (
+        canonical_market_team("LA", "KXNBAGAME-25NOV06LACPHX-LAC")
+        == "Los Angeles Clippers"
+    )
+    assert (
+        canonical_market_team("Los Angeles", "KXNBAGAME-25NOV03LALPOR-LAL")
+        == "Los Angeles Lakers"
+    )
 
 
 def test_market_cleaning() -> None:
-    """Only settled in-season markets should survive cleaning."""
+    """Check that only settled in-season markets survive cleaning.
+
+    Inputs:
+        None. Builds a small raw market list inside the test.
+    Returns:
+        None. Raises AssertionError if filtering or normalization fails.
+    """
     markets = [
         {
             "ticker": "valid",
@@ -49,7 +85,13 @@ def test_market_cleaning() -> None:
 
 
 def test_rolling_features_use_only_prior_games() -> None:
-    """The second game may use the first result, never its own result."""
+    """Check that rolling features use only previously completed games.
+
+    Inputs:
+        None. Builds a two-game chronological schedule inside the test.
+    Returns:
+        None. Raises AssertionError if current or future results leak.
+    """
     schedule = pd.DataFrame(
         [
             {
@@ -78,7 +120,13 @@ def test_rolling_features_use_only_prior_games() -> None:
 
 
 def test_processed_dataset() -> None:
-    """Validate keys, prices, timing, settlement, and reported Brier score."""
+    """Validate keys, prices, timing, settlement, and the Brier score.
+
+    Inputs:
+        None. Reads the generated EDA CSV and summary JSON.
+    Returns:
+        None. Raises AssertionError when an output invariant is violated.
+    """
     data_path = ROOT / "data" / "processed" / "kalshi_nba_eda.csv"
     summary_path = ROOT / "data" / "processed" / "eda_summary.json"
     data = pd.read_csv(data_path)
@@ -97,8 +145,15 @@ def test_processed_dataset() -> None:
 
 
 def main() -> None:
-    """Run tests without requiring a separate test framework."""
+    """Run all EDA tests without requiring a separate test framework.
+
+    Inputs:
+        None.
+    Returns:
+        None. Prints a success message or propagates an assertion failure.
+    """
     test_team_normalization()
+    test_market_team_normalization()
     test_market_cleaning()
     test_rolling_features_use_only_prior_games()
     test_processed_dataset()

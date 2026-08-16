@@ -34,7 +34,15 @@ SEASON_START = pd.Timestamp("2025-10-01", tz="UTC")
 
 
 def request_bytes(url: str, attempts: int = 4, timeout: int = 90) -> bytes:
-    """Return URL content with bounded retries for transient failures."""
+    """Return URL content with bounded retries for transient failures.
+
+    Inputs:
+        url: Public endpoint to request.
+        attempts: Maximum number of request attempts.
+        timeout: Per-request timeout in seconds.
+    Returns:
+        The downloaded response body as bytes.
+    """
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     for attempt in range(attempts):
         try:
@@ -48,12 +56,25 @@ def request_bytes(url: str, attempts: int = 4, timeout: int = 90) -> bytes:
 
 
 def request_json(url: str) -> dict[str, Any]:
-    """Download a JSON object from a public endpoint."""
+    """Download a JSON object from a public endpoint.
+
+    Inputs:
+        url: Public JSON endpoint to request.
+    Returns:
+        The decoded top-level JSON object.
+    """
     return json.loads(request_bytes(url).decode("utf-8"))
 
 
 def fetch_paginated_markets(path: str, source: str) -> list[dict[str, Any]]:
-    """Fetch KXNBAGAME pages until the requested season has been passed."""
+    """Fetch KXNBAGAME pages until the requested season has been passed.
+
+    Inputs:
+        path: Kalshi API path for live or historical markets.
+        source: Label stored on each row to identify its API tier.
+    Returns:
+        Raw market dictionaries collected across all relevant pages.
+    """
     markets = []
     cursor = ""
     for _ in range(12):
@@ -77,7 +98,13 @@ def fetch_paginated_markets(path: str, source: str) -> list[dict[str, Any]]:
 
 
 def fetch_schedule() -> pd.DataFrame:
-    """Download the monthly Basketball Reference schedule tables."""
+    """Download the monthly Basketball Reference schedule tables.
+
+    Inputs:
+        None. Uses the configured 2025-26 Basketball Reference URLs.
+    Returns:
+        A cleaned DataFrame containing completed season games.
+    """
     request_bytes(BR_INDEX)
     months = [
         "october",
@@ -102,7 +129,13 @@ def fetch_schedule() -> pd.DataFrame:
 
 
 def _close_value(block: object) -> float | None:
-    """Read a numeric close value from a candlestick price block."""
+    """Read a numeric close value from a candlestick price block.
+
+    Inputs:
+        block: A possible nested Kalshi price dictionary.
+    Returns:
+        The close price as a float, or None when it is absent or invalid.
+    """
     if not isinstance(block, dict):
         return None
     raw = block.get("close_dollars", block.get("close"))
@@ -113,7 +146,14 @@ def _close_value(block: object) -> float | None:
 
 
 def fetch_pregame_quote(row: dict[str, Any]) -> dict[str, Any]:
-    """Fetch the latest quote ending at least 15 minutes before tipoff."""
+    """Fetch the latest quote ending at least 15 minutes before tipoff.
+
+    Inputs:
+        row: A matched game/market record with ticker, tipoff, and API source.
+    Returns:
+        A quote record containing the selected probability and pregame metadata,
+        or a record whose status marks the quote as missing.
+    """
     ticker = row["ticker"]
     tipoff = pd.to_datetime(row["tipoff_time_utc"], utc=True)
     end_ts = int(tipoff.timestamp()) - 15 * 60
@@ -182,7 +222,13 @@ def fetch_pregame_quote(row: dict[str, Any]) -> dict[str, Any]:
 
 
 def collect_quotes(matches: pd.DataFrame) -> pd.DataFrame:
-    """Download pregame quotes concurrently while retaining failures."""
+    """Download pregame quotes concurrently while retaining failures.
+
+    Inputs:
+        matches: Matched game/market rows requiring candlestick quotes.
+    Returns:
+        One available-or-missing pregame quote record per contract ticker.
+    """
     records = matches.to_dict("records")
     cache_path = RAW_DIR / "pregame_quote_partial.jsonl"
     quotes = []
@@ -207,7 +253,13 @@ def collect_quotes(matches: pd.DataFrame) -> pd.DataFrame:
 
 
 def load_or_fetch_sources() -> tuple[pd.DataFrame, list[dict[str, Any]]]:
-    """Load cached sources, downloading each source when it is absent."""
+    """Load cached sources, downloading each source when it is absent.
+
+    Inputs:
+        None. Uses the configured paths under data/raw.
+    Returns:
+        The NBA schedule DataFrame and list of raw Kalshi market dictionaries.
+    """
     schedule_path = RAW_DIR / "basketball_reference_schedule.csv"
     market_path = RAW_DIR / "kalshi_market_responses.json"
     if schedule_path.exists():
@@ -229,7 +281,13 @@ def load_or_fetch_sources() -> tuple[pd.DataFrame, list[dict[str, Any]]]:
 
 
 def main() -> None:
-    """Collect sources and quotes, then write the cleaned matched extract."""
+    """Collect sources and quotes, then write the cleaned matched extract.
+
+    Inputs:
+        None. Reads caches or public endpoints using module constants.
+    Returns:
+        None. Writes raw caches, the matched CSV, and a collection audit.
+    """
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     schedule, markets = load_or_fetch_sources()
     market_frame = prepare_markets(markets)

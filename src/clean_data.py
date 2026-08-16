@@ -31,6 +31,8 @@ TEAM_CITIES = {
     "indiana": "Indiana Pacers",
     "la clippers": "Los Angeles Clippers",
     "la lakers": "Los Angeles Lakers",
+    "los angeles c": "Los Angeles Clippers",
+    "los angeles l": "Los Angeles Lakers",
     "memphis": "Memphis Grizzlies",
     "miami": "Miami Heat",
     "milwaukee": "Milwaukee Bucks",
@@ -52,15 +54,50 @@ TEAM_NAMES = TEAM_CITIES | {name.lower(): name for name in TEAM_CITIES.values()}
 
 
 def canonical_team(value: object) -> str | None:
-    """Normalize Kalshi and Basketball Reference team labels."""
+    """Normalize Kalshi and Basketball Reference team labels.
+
+    Inputs:
+        value: A team label or a missing value from either source.
+    Returns:
+        The canonical full NBA team name, or None for a missing input.
+    """
     if value is None or pd.isna(value):
         return None
     text = " ".join(str(value).strip().lower().split())
     return TEAM_NAMES.get(text, str(value).strip())
 
 
+def canonical_market_team(value: object, ticker: object) -> str | None:
+    """Normalize a Kalshi team label, using its ticker when LA is ambiguous.
+
+    Inputs:
+        value: The team label from a Kalshi Yes contract.
+        ticker: The contract ticker whose final segment identifies the team.
+    Returns:
+        The canonical NBA team name, or the generic normalized label when the
+        ticker does not resolve an ambiguous Los Angeles value.
+    """
+    normalized = canonical_team(value)
+    if normalized is None:
+        return None
+    if normalized.lower() not in {"la", "los angeles"}:
+        return normalized
+    team_code = str(ticker).strip().upper().rsplit("-", maxsplit=1)[-1]
+    if team_code == "LAC":
+        return "Los Angeles Clippers"
+    if team_code == "LAL":
+        return "Los Angeles Lakers"
+    return normalized
+
+
 def parse_market_time(market: dict[str, Any]) -> pd.Timestamp | None:
-    """Return the best valid scheduled game time exposed by Kalshi."""
+    """Return the best valid scheduled game time exposed by Kalshi.
+
+    Inputs:
+        market: One raw Kalshi market record.
+    Returns:
+        A timezone-aware UTC timestamp, or None when no valid time exists.
+    """
     raw_time = market.get("occurrence_datetime")
     raw_time = raw_time or market.get("expected_expiration_time")
     if not raw_time:
@@ -70,7 +107,13 @@ def parse_market_time(market: dict[str, Any]) -> pd.Timestamp | None:
 
 
 def clean_schedule(schedule: pd.DataFrame) -> pd.DataFrame:
-    """Normalize a combined Basketball Reference schedule table."""
+    """Normalize a combined Basketball Reference schedule table.
+
+    Inputs:
+        schedule: Raw monthly schedule rows from Basketball Reference.
+    Returns:
+        Completed games with normalized teams, UTC tipoffs, scores, and outcomes.
+    """
     schedule = schedule[schedule["Date"].astype(str) != "Date"].copy()
     schedule["game_date"] = pd.to_datetime(schedule["Date"], errors="coerce")
     start_text = schedule["Start (ET)"].astype(str).str.strip()
@@ -112,7 +155,13 @@ def clean_schedule(schedule: pd.DataFrame) -> pd.DataFrame:
 
 
 def prepare_markets(markets: list[dict[str, Any]]) -> pd.DataFrame:
-    """Flatten settled season markets and normalize their fields."""
+    """Flatten settled season markets and normalize their fields.
+
+    Inputs:
+        markets: Raw Kalshi market dictionaries from live and historical APIs.
+    Returns:
+        One normalized row per unique settled in-season contract.
+    """
     rows = []
     for market in markets:
         game_time = parse_market_time(market)
@@ -125,7 +174,9 @@ def prepare_markets(markets: list[dict[str, Any]]) -> pd.DataFrame:
             {
                 "ticker": market.get("ticker"),
                 "event_ticker": market.get("event_ticker"),
-                "yes_team": canonical_team(market.get("yes_sub_title")),
+                "yes_team": canonical_market_team(
+                    market.get("yes_sub_title"), market.get("ticker")
+                ),
                 "game_time_utc": game_time,
                 "game_date": game_time.tz_convert(EASTERN)
                 .tz_localize(None)
@@ -150,7 +201,14 @@ def prepare_markets(markets: list[dict[str, Any]]) -> pd.DataFrame:
 def match_home_markets(
     schedule: pd.DataFrame, markets: pd.DataFrame
 ) -> pd.DataFrame:
-    """Match each completed game to its home-team Kalshi contract."""
+    """Match each completed game to its home-team Kalshi contract.
+
+    Inputs:
+        schedule: Cleaned NBA schedule and result rows.
+        markets: Normalized settled Kalshi contract rows.
+    Returns:
+        Schedule rows joined to unique home-team contracts within eight hours.
+    """
     event_teams = (
         markets.groupby("event_ticker")["yes_team"]
         .agg(lambda values: frozenset(values.dropna()))
@@ -195,7 +253,14 @@ def match_home_markets(
 def combine_matches_and_quotes(
     matched: pd.DataFrame, quotes: pd.DataFrame
 ) -> pd.DataFrame:
-    """Merge matched games with quotes and derive validated identifiers."""
+    """Merge matched games with quotes and derive validated identifiers.
+
+    Inputs:
+        matched: Games already matched to home-team Kalshi contracts.
+        quotes: One pregame quote record per contract ticker.
+    Returns:
+        Game-level rows with quote fields, settlement checks, and unique IDs.
+    """
     merged = matched.merge(quotes, on="ticker", how="left", validate="one_to_one")
     merged["market_home_win"] = merged["settlement_value"].round().astype(int)
     merged["settlement_agrees"] = merged["market_home_win"] == merged["home_win"]
@@ -210,7 +275,13 @@ def combine_matches_and_quotes(
 
 
 def main() -> None:
-    """Rebuild the cleaned matched dataset from cached raw extracts."""
+    """Rebuild the cleaned matched dataset from cached raw extracts.
+
+    Inputs:
+        None. Cached files are read from data/raw.
+    Returns:
+        None. Writes data/raw/matched_games_with_quotes.csv and prints its size.
+    """
     schedule = pd.read_csv(
         RAW_DIR / "basketball_reference_schedule.csv",
         parse_dates=["game_date", "tipoff_time_utc"],

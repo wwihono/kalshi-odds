@@ -32,13 +32,26 @@ BACKGROUND = "#F7FAFC"
 
 
 def font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont:
-    """Load a readable Windows font for report-quality raster charts."""
+    """Load a readable Windows font for report-quality raster charts.
+
+    Inputs:
+        size: Font size in pixels.
+        bold: Whether to load the bold Arial face.
+    Returns:
+        A Pillow font object ready for drawing.
+    """
     name = "arialbd.ttf" if bold else "arial.ttf"
     return ImageFont.truetype(str(Path("C:/Windows/Fonts") / name), size)
 
 
 def safe_float(value: Any) -> float | None:
-    """Convert finite numeric values to plain Python floats."""
+    """Convert finite numeric values to plain Python floats.
+
+    Inputs:
+        value: A possible numeric scalar or missing value.
+    Returns:
+        A finite Python float, or None for missing and non-finite values.
+    """
     if value is None or pd.isna(value):
         return None
     result = float(value)
@@ -46,7 +59,14 @@ def safe_float(value: Any) -> float | None:
 
 
 def team_snapshot(history: list[dict[str, Any]], games: int) -> tuple[float, float]:
-    """Return prior-game win rate and point differential over a window."""
+    """Return prior-game win rate and point differential over a window.
+
+    Inputs:
+        history: Chronological prior-game outcome and point-difference records.
+        games: Maximum number of recent games to include.
+    Returns:
+        The recent win rate and mean point differential, or NaNs if empty.
+    """
     recent = history[-games:]
     if not recent:
         return np.nan, np.nan
@@ -57,7 +77,13 @@ def team_snapshot(history: list[dict[str, Any]], games: int) -> tuple[float, flo
 
 
 def build_features(schedule: pd.DataFrame) -> pd.DataFrame:
-    """Build leakage-safe rolling, rest, and Elo features chronologically."""
+    """Build leakage-safe rolling, rest, and Elo features chronologically.
+
+    Inputs:
+        schedule: Completed games with dates, teams, scores, and home outcomes.
+    Returns:
+        One row per game containing only features available before that game.
+    """
     games = schedule.copy()
     games["game_date"] = pd.to_datetime(games["game_date"])
     games = games.sort_values("game_date").reset_index(drop=True)
@@ -112,7 +138,13 @@ def build_features(schedule: pd.DataFrame) -> pd.DataFrame:
 
 
 def seven_number(series: pd.Series) -> dict[str, float | int | None]:
-    """Return count plus the required seven-number quantitative summary."""
+    """Return count plus the required seven-number quantitative summary.
+
+    Inputs:
+        series: Values to coerce to numeric and summarize.
+    Returns:
+        Count, mean, standard deviation, minimum, quartiles, and maximum.
+    """
     values = pd.to_numeric(series, errors="coerce").dropna()
     if values.empty:
         return {"count": 0}
@@ -129,11 +161,28 @@ def seven_number(series: pd.Series) -> dict[str, float | int | None]:
 
 
 def text_size(draw: ImageDraw.ImageDraw, text: str, text_font: ImageFont.FreeTypeFont) -> tuple[int, int]:
+    """Measure rendered text dimensions for chart positioning.
+
+    Inputs:
+        draw: Pillow drawing context used for measurement.
+        text: Text to measure.
+        text_font: Font used to render the text.
+    Returns:
+        The text width and height in pixels.
+    """
     box = draw.textbbox((0, 0), text, font=text_font)
     return box[2] - box[0], box[3] - box[1]
 
 
 def chart_base(title: str, subtitle: str) -> tuple[Image.Image, ImageDraw.ImageDraw]:
+    """Create a consistently styled chart canvas and title area.
+
+    Inputs:
+        title: Main chart heading.
+        subtitle: Explanatory line displayed beneath the heading.
+    Returns:
+        The Pillow image and its drawing context.
+    """
     image = Image.new("RGB", (WIDTH, HEIGHT), BACKGROUND)
     draw = ImageDraw.Draw(image)
     draw.text((70, 42), title, fill=NAVY, font=font(40, True))
@@ -147,6 +196,16 @@ def draw_axes(
     x_label: str,
     y_label: str,
 ) -> None:
+    """Draw chart axes and their labels inside fixed bounds.
+
+    Inputs:
+        draw: Pillow drawing context to modify.
+        bounds: Left, top, right, and bottom plot coordinates.
+        x_label: Horizontal-axis label.
+        y_label: Vertical-axis label.
+    Returns:
+        None. Draws axes and labels onto the supplied context.
+    """
     left, top, right, bottom = bounds
     draw.line((left, top, left, bottom), fill=TEXT, width=3)
     draw.line((left, bottom, right, bottom), fill=TEXT, width=3)
@@ -162,7 +221,14 @@ def draw_axes(
 
 
 def plot_calibration(table: pd.DataFrame, output: Path) -> None:
-    """Create an observed-versus-implied calibration chart."""
+    """Create an observed-versus-implied calibration chart.
+
+    Inputs:
+        table: Probability-bin counts, mean probabilities, and observed rates.
+        output: Destination PNG path.
+    Returns:
+        None. Writes the completed calibration chart to output.
+    """
     image, draw = chart_base(
         "Kalshi NBA calibration before tipoff",
         "Circle size represents the number of matched games in each probability bin.",
@@ -192,7 +258,14 @@ def plot_calibration(table: pd.DataFrame, output: Path) -> None:
 
 
 def plot_probability_distribution(data: pd.DataFrame, output: Path) -> None:
-    """Create a stacked histogram of pregame probabilities by outcome."""
+    """Create a stacked histogram of pregame probabilities by outcome.
+
+    Inputs:
+        data: Game rows containing Kalshi probabilities and home outcomes.
+        output: Destination PNG path.
+    Returns:
+        None. Writes the completed probability chart to output.
+    """
     image, draw = chart_base(
         "Distribution of pregame home-team probabilities",
         "Most observations cluster away from the extremes; color indicates the realized winner.",
@@ -236,7 +309,14 @@ def plot_probability_distribution(data: pd.DataFrame, output: Path) -> None:
 
 
 def plot_volume_accuracy(table: pd.DataFrame, output: Path) -> None:
-    """Create side-by-side bars for volume quartile Brier score and accuracy."""
+    """Create side-by-side bars for volume-quartile model metrics.
+
+    Inputs:
+        table: Volume-quartile labels, Brier scores, and accuracy values.
+        output: Destination PNG path.
+    Returns:
+        None. Writes the completed volume chart to output.
+    """
     image, draw = chart_base(
         "Market accuracy by pregame volume quartile",
         "Lower Brier scores are better; accuracy uses a 50% probability threshold.",
@@ -268,7 +348,14 @@ def plot_volume_accuracy(table: pd.DataFrame, output: Path) -> None:
 
 
 def plot_form_relationship(data: pd.DataFrame, output: Path) -> None:
-    """Plot recent point-differential advantage against market probability."""
+    """Plot recent point-differential advantage against market probability.
+
+    Inputs:
+        data: Game rows with recent-form differences, prices, and outcomes.
+        output: Destination PNG path.
+    Returns:
+        None. Writes the completed recent-form chart to output.
+    """
     frame = data.dropna(subset=["recent_point_diff_5_diff", "kalshi_prob"])
     image, draw = chart_base(
         "Recent form and Kalshi probability",
@@ -314,7 +401,13 @@ def plot_form_relationship(data: pd.DataFrame, output: Path) -> None:
 
 
 def make_summary(data: pd.DataFrame) -> dict[str, Any]:
-    """Calculate all tables and scalar findings used by the report."""
+    """Calculate all tables and scalar findings used by the EDA.
+
+    Inputs:
+        data: Clean matched games with probabilities, outcomes, and features.
+    Returns:
+        JSON-compatible dimensions, metrics, summaries, and anomaly records.
+    """
     clipped = data["kalshi_prob"].clip(1e-6, 1 - 1e-6)
     data["brier"] = (data["kalshi_prob"] - data["home_win"]) ** 2
     data["log_loss"] = -(
@@ -427,7 +520,13 @@ def make_summary(data: pd.DataFrame) -> dict[str, Any]:
 
 
 def main() -> None:
-    """Run the analysis and write processed data, figures, and summaries."""
+    """Run the analysis and write processed data, figures, and summaries.
+
+    Inputs:
+        None. Reads the cached matched-game and schedule paths.
+    Returns:
+        None. Writes the EDA CSV, summary JSON, figures, and console metrics.
+    """
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     FIGURE_DIR.mkdir(parents=True, exist_ok=True)
     matched = pd.read_csv(RAW_PATH, parse_dates=["game_date", "game_time_utc", "open_time"])
