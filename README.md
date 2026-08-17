@@ -6,9 +6,6 @@ constructs pregame-only team features, trains logistic-regression, random-forest
 and gradient-boosting models, compares them with Kalshi on a later test period,
 and simulates threshold trades with the validation-selected model.
 
-The archived EDA report is preserved as submitted. The final report is not built
-by this code.
-
 ## Requirements
 
 - Python 3.11 or newer
